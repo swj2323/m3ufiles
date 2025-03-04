@@ -1,0 +1,184 @@
+name: IPTV AutoSync Workflow
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 17 * * *" # 每天UTC时间17点30分（北京时间次日1点30分）
+
+jobs:
+  sync-iptv-sources:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 确保有写入权限‌:ml-citation{ref="1,6" data="citationList"}
+    
+    steps:
+      # 步骤1：检出master分支代码
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: master  # 明确指定master分支‌:ml-citation{ref="1" data="citationList"}
+
+      # 步骤2：创建下载目录
+      - name: Create download directory
+        run: mkdir -p Download
+
+      # 步骤3：下载IPTV源文件
+      - name: Download IPTV sources
+        run: |
+          wget -q -O Download/iptv-api.txt https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+          wget -q -O Download/wwkejishe.m3u https://iptv.wwkejishe.top/ALL.m3u
+          wget -q -O Download/wwkjtv.m3u https://iptv.wwkejishe.top/tv.m3u
+          wget -q -O Download/wwkjSub.m3u https://iptv.wwkejishe.top/Sub.m3u
+          wget -q -O Download/CCTV.m3u https://raw.githubusercontent.com/Moexin/IPTV/Files/CCTV.m3u
+          wget -q -O Download/CNTV.m3u https://raw.githubusercontent.com/Moexin/IPTV/Files/CNTV.m3u
+          wget -q -O Download/suxuang.m3u https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+          wget -q -O Download/l.txt https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+          wget -q -O Download/fanmingming_ipv6.m3u https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+          wget -q -O Download/vbskycn_iptv6.txt https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+          wget -q -O Download/YueChan.m3u https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+          wget -q -O Download/alienlu.txt https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.txt
+
+      # 步骤4：批量替换文件内容
+      - name: Process files
+        run: |
+          find Download -type f -exec sed -i \
+            -e 's/CCTV-/CCTV/g' \
+            -e 's/CCTV /CCTV/g' \
+            -e 's/CCTV-0/CCTV/g' \
+            -e 's/CCTV0/CCTV/g' \
+            -e 's/CCTV-1 综合/CCTV1/g' \
+            -e 's/CCTV-2 财经/CCTV2/g' \
+            -e 's/CCTV-3 综艺/CCTV3/g' \
+            -e 's/CCTV-4 中文国际/CCTV4/g' \
+            -e 's/CCTV-5 体育/CCTV5/g' \
+            -e 's/CCTV-5+ 体育赛事/CCTV5+/g' \
+            -e 's/CCTV-6 电影/CCTV6/g' \
+            -e 's/CCTV-7 国防军事/CCTV7/g' \
+            -e 's/CCTV-8 电视剧/CCTV8/g' \
+            -e 's/CCTV-9 纪录/CCTV9/g' \
+            -e 's/CCTV-10 科教/CCTV10/g' \
+            -e 's/CCTV-11 戏曲/CCTV11/g' \
+            -e 's/CCTV-12 社会与法/CCTV12/g' \
+            -e 's/CCTV-13 新闻/CCTV13/g' \
+            -e 's/CCTV-14 少儿/CCTV14/g' \
+            -e 's/CCTV-15 音乐/CCTV15/g' \
+            -e 's/CCTV-16 奥林匹克/CCTV16/g' \
+            -e 's/CCTV-17 农业农村/CCTV17/g' \
+            -e 's/CCTV-1综合/CCTV1/g' \
+            -e 's/CCTV-2财经/CCTV2/g' \
+            -e 's/CCTV-3综艺/CCTV3/g' \
+            -e 's/CCTV-4中文国际/CCTV4/g' \
+            -e 's/CCTV-5体育/CCTV5/g' \
+            -e 's/CCTV-5+体育赛事/CCTV5+/g' \
+            -e 's/CCTV-6电影/CCTV6/g' \
+            -e 's/CCTV-7国防军事/CCTV7/g' \
+            -e 's/CCTV-8电视剧/CCTV8/g' \
+            -e 's/CCTV-9纪录/CCTV9/g' \
+            -e 's/CCTV-10科教/CCTV10/g' \
+            -e 's/CCTV-11戏曲/CCTV11/g' \
+            -e 's/CCTV-12社会与法/CCTV12/g' \
+            -e 's/CCTV-13新闻/CCTV13/g' \
+            -e 's/CCTV-14少儿/CCTV14/g' \
+            -e 's/CCTV-15音乐/CCTV15/g' \
+            -e 's/CCTV-16奥林匹克/CCTV16/g' \
+            -e 's/CCTV-17农业农村/CCTV17/g' \
+            -e 's/CCTV1 综合/CCTV1/g' \
+            -e 's/CCTV2 财经/CCTV2/g' \
+            -e 's/CCTV3 综艺/CCTV3/g' \
+            -e 's/CCTV4 中文国际/CCTV4/g' \
+            -e 's/CCTV5 体育/CCTV5/g' \
+            -e 's/CCTV5+ 体育赛事/CCTV5+/g' \
+            -e 's/CCTV6 电影/CCTV6/g' \
+            -e 's/CCTV7 国防军事/CCTV7/g' \
+            -e 's/CCTV8 电视剧/CCTV8/g' \
+            -e 's/CCTV9 纪录/CCTV9/g' \
+            -e 's/CCTV10 科教/CCTV10/g' \
+            -e 's/CCTV11 戏曲/CCTV11/g' \
+            -e 's/CCTV12 社会与法/CCTV12/g' \
+            -e 's/CCTV13 新闻/CCTV13/g' \
+            -e 's/CCTV14 少儿/CCTV14/g' \
+            -e 's/CCTV15 音乐/CCTV15/g' \
+            -e 's/CCTV16 奥林匹克/CCTV16/g' \
+            -e 's/CCTV17 农业农村/CCTV17/g' \
+            -e 's/CGTN记录/CGTN纪录/g' \
+            -e 's/BRTV北京卫视/北京卫视/g' \
+            -e 's/BRTV卡酷少儿/卡酷少儿/g' \
+            -e 's/BRTV纪实科教/纪实科教/g' \
+            -e 's/上海东方卫视/东方卫视/g' \
+            -e 's/福建海峡卫视/海峡卫视/g' \
+            -e 's/福建体育/福建文体/g' \
+            -e 's/福建体育频道/福建文体/g' \
+            -e 's/NewTV爱情喜剧/爱情喜剧/g' \
+            -e 's/NewTV超级电视剧/超级电视剧/g' \
+            -e 's/NewTV超级电影/超级电影/g' \
+            -e 's/NewTV超级体育/超级体育/g' \
+            -e 's/NewTV超级综艺/超级综艺/g' \
+            -e 's/NewTV潮妈辣婆/潮妈辣婆/g' \
+            -e 's/NewTV东北热剧/东北热剧/g' \
+            -e 's/NewTV动作电影/动作电影/g' \
+            -e 's/NewTV古装剧场/古装剧场/g' \
+            -e 's/NewTV欢乐剧场/欢乐剧场/g' \
+            -e 's/NewTV家庭剧场/家庭剧场/g' \
+            -e 's/NewTV金牌综艺/金牌综艺/g' \
+            -e 's/NewTV惊悚悬疑/惊悚悬疑/g' \
+            -e 's/NewTV精品大剧/精品大剧/g' \
+            -e 's/NewTV精品纪录/精品纪录/g' \
+            -e 's/NewTV精品萌宠/精品萌宠/g' \
+            -e 's/NewTV精品体育/精品体育/g' \
+            -e 's/SiTV动漫秀场/动漫秀场/g' \
+            -e 's/SiTV都市剧场/都市剧场/g' \
+            -e 's/SiTV法治天地/法治天地/g' \
+            -e 's/SiTV欢笑剧场/欢笑剧场/g' \
+            -e 's/SiTV金色学堂/金色学堂/g' \
+            -e 's/SiTV劲爆体育/劲爆体育/g' \
+            -e 's/SiTV乐游/乐游/g' \
+            -e 's/SiTV魅力足球/魅力足球/g' \
+            -e 's/SiTV七彩戏剧/七彩戏剧/g' \
+            -e 's/SiTV生活时尚/生活时尚/g' \
+            -e 's/SiTV游戏风云/游戏风云/g' \
+            -e 's/iHOT爱谍战/爱谍战/g' \
+            -e 's/iHOT爱都市/爱都市/g' \
+            -e 's/iHOT爱怀旧/爱怀旧/g' \
+            -e 's/iHOT爱经典/爱经典/g' \
+            -e 's/iHOT爱科幻/爱科幻/g' \
+            -e 's/iHOT爱浪漫/爱浪漫/g' \
+            -e 's/iHOT爱历史/爱历史/g' \
+            -e 's/iHOT爱青春/爱青春/g' \
+            -e 's/iHOT爱喜剧/爱喜剧/g' \
+            -e 's/iHOT爱悬疑/爱悬疑/g' \
+            -e 's/iHOT爱动漫/爱动漫/g' \
+            -e 's/iHOT爱玩具/爱玩具/g' \
+            -e 's/iHOT爱幼教/爱幼教/g' \
+            -e 's/iHOT爱科学/爱科学/g' \
+            -e 's/iHOT爱旅行/爱旅行/g' \
+            -e 's/iHOT爱体育/爱体育/g' \
+            {} +
+
+      # 步骤5：自动提交更新（关键修复点）
+      - name: Commit changes
+        run: |
+          git config --global user.name "IPTV Sync Bot"
+          git config --global user.email "iptv-sync@noreply.github.com"
+
+          # 更可靠的变更检测方法‌:ml-citation{ref="6" data="citationList"}
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "没有检测到文件变化"
+          else
+            # 添加所有变更文件（包括新建文件）‌:ml-citation{ref="6" data="citationList"}
+            git add -A
+            git commit -m "📡 AutoSync IPTV Sources [$(date +'%Y-%m-%d %H:%M UTC')]"
+            # 强制推送确保同步‌:ml-citation{ref="1,3" data="citationList"}
+            git push origin master
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 确保令牌有效‌:ml-citation{ref="1,6" data="citationList"}
+
+      # 步骤6：上传构建产物
+      - name: Upload artifact
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptv-sources-${{ github.run_id }}
+          path: Download/
+          retention-days: 3
