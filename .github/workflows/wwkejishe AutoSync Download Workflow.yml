@@ -15,14 +15,14 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
-        ref: master # 明确指定master分支
+        ref: main # 明确指定main分支
 
     - name: Create download directory
       run: mkdir -p Download
 
     - name: Download IPTV sources
       run: |
-        curl -o Download/wwkejishe.m3u https://raw.githubusercontent.com/m3ufiles/iptv-api/refs/heads/master/Download/wwkejishe.m3u
+        curl -o Download/wwkejishe.m3u https://raw.githubusercontent.com/m3ufiles/iptv-api/main/Download/wwkejishe.m3u
 
     - name: Process files
       run: |
@@ -40,7 +40,7 @@ jobs:
         else
           git add -A
           git commit -m "📡 AutoSync IPTV Sources [$(date +'%Y-%m-%d %H:%M UTC')]"
-          git push origin master
+          git push origin main
         fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 确保令牌有效
