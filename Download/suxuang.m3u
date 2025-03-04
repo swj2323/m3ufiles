@@ -1096,7 +1096,7 @@ http://61.173.144.157:9901/tsfile/live/1000_1.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://live.fanmingming.cn/tv/上海教育.png" group-title="地方频道",上海教育
 http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 group-title="地方频道",崇明电视台
+#EXTINF:-1 group-title="地方频道" tvg-name="崇明电视台" tvg-logo="https://live.fanmingming.cn/tv/崇明电视台.png",崇明电视台
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 
 #湖南/8个频道
@@ -1136,13 +1136,13 @@ http://wouu.net:9977/udp/239.93.42.44:5140
 http://wouu.net:9977/udp/239.93.0.52:5140
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" group-title="地方频道",四川妇女儿童
 http://wouu.net:9977/udp/239.93.0.219:5140
-#EXTINF:-1 group-title="地方频道",乐山新闻综合
+#EXTINF:-1 group-title="地方频道" tvg-name="乐山新闻综合" tvg-logo="https://live.fanmingming.cn/tv/乐山新闻综合.png",乐山新闻综合
 http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 group-title="地方频道",乐至综合
+#EXTINF:-1 group-title="地方频道" tvg-name="乐至综合" tvg-logo="https://live.fanmingming.cn/tv/乐至综合.png",乐至综合
 http://175.155.106.72:89/live1/live1.m3u8?zsicd
-#EXTINF:-1 group-title="地方频道",利州综合
+#EXTINF:-1 group-title="地方频道" tvg-name="利州综合" tvg-logo="https://live.fanmingming.cn/tv/利州综合.png",利州综合
 http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
-#EXTINF:-1 group-title="地方频道",剑阁综合
+#EXTINF:-1 group-title="地方频道" tvg-name="剑阁综合" tvg-logo="https://live.fanmingming.cn/tv/剑阁综合.png",剑阁综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 
 #广东/2个频道
@@ -1410,7 +1410,7 @@ https://jmp2.uk/sam-USBA300024TN.m3u8
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="国际频道",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-#EXTINF:-1 group-title="国际频道",WionNews
+#EXTINF:-1 group-title="国际频道" tvg-name="WionNews" tvg-logo="https://live.fanmingming.cn/tv/WionNews.png",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/NHKWorld.png" group-title="国际频道",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -1452,51 +1452,51 @@ https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RT07" tvg-name="RT Doc-Русский" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="国际频道",RT Doc-Русский（俄语纪录）
 https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-#EXTINF:-1 group-title="国际频道",SKY
+#EXTINF:-1 group-title="国际频道" tvg-name="SKY" tvg-logo="https://live.fanmingming.cn/tv/SKY.png",SKY
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-#EXTINF:-1 group-title="国际频道",KBS world
+#EXTINF:-1 group-title="国际频道" tvg-name="KBS world" tvg-logo="https://live.fanmingming.cn/tv/KBS world.png",KBS world
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="国际频道",FIFA+
+#EXTINF:-1 group-title="国际频道" tvg-name="FIFA+" tvg-logo="https://live.fanmingming.cn/tv/FIFA+.png",FIFA+
 https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-#EXTINF:-1 group-title="国际频道",Newsmax
+#EXTINF:-1 group-title="国际频道" tvg-name="Newsmax" tvg-logo="https://live.fanmingming.cn/tv/Newsmax.png",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="国际频道",Dubai One
+#EXTINF:-1 group-title="国际频道" tvg-name="Dubai One" tvg-logo="https://live.fanmingming.cn/tv/Dubai One.png",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="国际频道",CBN News
+#EXTINF:-1 group-title="国际频道" tvg-name="CBN News" tvg-logo="https://live.fanmingming.cn/tv/CBN News.png",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",GB News
+#EXTINF:-1 group-title="国际频道" tvg-name="GB News" tvg-logo="https://live.fanmingming.cn/tv/GB News.png",GB News
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-#EXTINF:-1 group-title="国际频道",TBS
+#EXTINF:-1 group-title="国际频道" tvg-name="TBS" tvg-logo="https://live.fanmingming.cn/tv/TBS.png",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 group-title="国际频道",Taiwan Plus
+#EXTINF:-1 group-title="国际频道" tvg-name="Taiwan Plus" tvg-logo="https://live.fanmingming.cn/tv/Taiwan Plus.png",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",ION Plus
+#EXTINF:-1 group-title="国际频道" tvg-name="ION Plus" tvg-logo="https://live.fanmingming.cn/tv/ION Plus.png",ION Plus
 https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-#EXTINF:-1 group-title="国际频道",ION
+#EXTINF:-1 group-title="国际频道" tvg-name="ION" tvg-logo="https://live.fanmingming.cn/tv/ION.png",ION
 https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-#EXTINF:-1 group-title="国际频道",Love Nature
+#EXTINF:-1 group-title="国际频道" tvg-name="Love Nature" tvg-logo="https://live.fanmingming.cn/tv/Love Nature.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="国际频道",Disney International
+#EXTINF:-1 group-title="国际频道" tvg-name="Disney International" tvg-logo="https://live.fanmingming.cn/tv/Disney International.png",Disney International
 http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-#EXTINF:-1 group-title="国际频道",Fight Network
+#EXTINF:-1 group-title="国际频道" tvg-name="Fight Network" tvg-logo="https://live.fanmingming.cn/tv/Fight Network.png",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",&Flix HD
+#EXTINF:-1 group-title="国际频道" tvg-name="&Flix HD" tvg-logo="https://live.fanmingming.cn/tv/&Flix HD.png",&Flix HD
 http://89.187.177.137:8081/&FLIX/index.m3u8
-#EXTINF:-1 group-title="国际频道",Wild Earth
+#EXTINF:-1 group-title="国际频道" tvg-name="Wild Earth" tvg-logo="https://live.fanmingming.cn/tv/Wild Earth.png",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="国际频道",Wild Planet
+#EXTINF:-1 group-title="国际频道" tvg-name="Wild Planet" tvg-logo="https://live.fanmingming.cn/tv/Wild Planet.png",Wild Planet
 https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-#EXTINF:-1 group-title="国际频道",Clarity 4K
+#EXTINF:-1 group-title="国际频道" tvg-name="Clarity 4K" tvg-logo="https://live.fanmingming.cn/tv/Clarity 4K.png",Clarity 4K
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-#EXTINF:-1 group-title="国际频道",Stadium
+#EXTINF:-1 group-title="国际频道" tvg-name="Stadium" tvg-logo="https://live.fanmingming.cn/tv/Stadium.png",Stadium
 https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-#EXTINF:-1 group-title="国际频道",Pop
+#EXTINF:-1 group-title="国际频道" tvg-name="Pop" tvg-logo="https://live.fanmingming.cn/tv/Pop.png",Pop
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-#EXTINF:-1 group-title="国际频道",Tastemade
+#EXTINF:-1 group-title="国际频道" tvg-name="Tastemade" tvg-logo="https://live.fanmingming.cn/tv/Tastemade.png",Tastemade
 https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-#EXTINF:-1 group-title="国际频道",MovieSphere
+#EXTINF:-1 group-title="国际频道" tvg-name="MovieSphere" tvg-logo="https://live.fanmingming.cn/tv/MovieSphere.png",MovieSphere
 https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-#EXTINF:-1 group-title="国际频道",The Lego Channel
+#EXTINF:-1 group-title="国际频道" tvg-name="The Lego Channel" tvg-logo="https://live.fanmingming.cn/tv/The Lego Channel.png",The Lego Channel
 https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-#EXTINF:-1 group-title="国际频道",NextUp Live Comedy
+#EXTINF:-1 group-title="国际频道" tvg-name="NextUp Live Comedy" tvg-logo="https://live.fanmingming.cn/tv/NextUp Live Comedy.png",NextUp Live Comedy
 https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
