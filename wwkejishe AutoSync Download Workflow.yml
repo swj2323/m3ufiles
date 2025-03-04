@@ -1,0 +1,54 @@
+name: wwkejishe AutoSync Download Workflow
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 17 * * *" # 每天UTC时间17:40触发（北京时间次日凌晨1:40）
+
+jobs:
+  sync-iptv-sources:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 确保有写入权限
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        ref: master # 明确指定master分支
+
+    - name: Create download directory
+      run: mkdir -p Download
+
+    - name: Download IPTV sources
+      run: |
+        curl -o Download/wwkejishe.m3u8 https://raw.githubusercontent.com/swj2323/iptv-api/refs/heads/master/Download/wwkejishe.m3u8
+
+    - name: Process files
+      run: |
+       find Download -type f -name "*.m3u8" -exec sed -i -E \
+       -e 's/^(#EXTINF:-1 group-title="([^"]+)"),([^\n]+)/#EXTINF:-1 group-title="\2" tvg-name="\3" tvg-logo="https:\/\/live.fanmingming.cn\/tv\/\3.png",\3/' \
+       -e 's/\$.*$//' {} +
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "IPTV Sync Bot"
+        git config --global user.email "iptv-sync@noreply.github.com"
+        
+        if [ -z "$(git status --porcelain)" ]; then
+          echo "没有检测到文件变化"
+        else
+          git add -A
+          git commit -m "📡 AutoSync IPTV Sources [$(date +'%Y-%m-%d %H:%M UTC')]"
+          git push origin master
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 确保令牌有效
+
+    - name: Upload artifact (optional)
+      if: ${{ always() }}
+      uses: actions/upload-artifact@v4
+      with:
+        name: iptv-sources-${{ github.run_id }}
+        path: Download/
+        retention-days: 3
