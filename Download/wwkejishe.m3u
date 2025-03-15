@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://182.92.156.115:5678/t.xml.gz"
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="更新日期",20250314
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="更新日期",20250315
 http://iptv.wwkejishe.top/share.mp4
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
 http://tv.20191209.xyz:37377/migu/608807420.m3u8?migutoken=004b385f879c68b1898b3b528c53ce2cc69a05fc6ccef397d5ff725950f98cc37983a6c0565ab535a964de0b80663b3a394fd8a43c51d0547d2e232162525de45bdb07292d1fc1944aea97f0
@@ -136,39 +136,39 @@ http://z.b.bkpcp.top/m.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
 http://z.b.bkpcp.top/m.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
-http://4330413.xyz:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
-http://4330413.xyz:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视频道",CCTV3
-http://4330413.xyz:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视频道",CCTV4
-http://4330413.xyz:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
-http://4330413.xyz:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道",CCTV5+
-http://4330413.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV6
-http://4330413.xyz:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV7
-http://4330413.xyz:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视频道",CCTV8
-http://4330413.xyz:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视频道",CCTV9
-http://4330413.xyz:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV10
-http://4330413.xyz:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视频道",CCTV11
-http://4330413.xyz:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视频道",CCTV12
-http://4330413.xyz:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视频道",CCTV14
-http://4330413.xyz:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视频道",CCTV15
-http://4330413.xyz:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
-http://4330413.xyz:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
-http://4330413.xyz:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
+http://3501776.xyz:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
 http://mvfn.zhch1968.com:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视频道",CCTV2
@@ -2781,66 +2781,88 @@ http://z.b.bkpcp.top/m.php?id=dfws
 http://z.b.bkpcp.top/m.php?id=dycj
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
 http://goo.bkpcp.top/mg/dfws
-#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="上海频道",上海ICS外语
-http://61.216.108.239:5566/TVOD/5000000010000030951/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="上海频道",上海ICS外语
-http://61.216.108.239:5566/TVOD/2000000002000000001/hnbblive/index.m3u8$2.5M720_湖南bblive
-#EXTINF:-1 tvg-id="第一财经" tvg-name="上海第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海第一财经.png" group-title="上海频道",上海第一财经
-http://61.216.108.239:5566/TVOD/5000000010000027146/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 tvg-id="第一财经" tvg-name="上海第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海第一财经.png" group-title="上海频道",上海第一财经
-http://61.216.108.239:5566/TVOD/2000000002000000004/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
+http://3501776.xyz:35455/itv/6000000001000003639.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视-50-FPS
+http://3501776.xyz:35455/itv/5000000004000014098.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视-HEVC
+http://3501776.xyz:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="上海ICS" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="上海频道",上海-ICS-外语
+http://3501776.xyz:35455/itv/5000000010000030951.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海第一财经.png" group-title="上海频道",上海第一财经
+http://3501776.xyz:35455/itv/5000000010000027146.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方财经.png" group-title="上海频道",上海东方财经
-http://61.216.108.239:5566/TVOD/5000000007000010003/bestzb/index.m3u8$6.8M1080_百视通
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方财经.png" group-title="上海频道",上海东方财经
-http://61.216.108.239:5566/TVOD/2000000002000000090/hnbblive/index.m3u8$6.8M1080_湖南bblive
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
-http://61.216.108.239:5566/TVOD/5000000004000014098/bestzb/index.m3u8$8M1080_百视通
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
-http://61.216.108.239:5566/TVOD/6000000001000003639/wasusyt/index.m3u8$8M1080_华数
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
-http://61.216.108.239:5566/TVOD/1000000001000005866/ystenlive/index.m3u8$8M1080_易视腾
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
-http://61.216.108.239:5566/TVOD/1000000005000265018/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
-http://61.216.108.239:5566/TVOD/5000000010000032246/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
-http://61.216.108.239:5566/TVOD/1000000001000030202/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
-http://61.216.108.239:5566/TVOD/2000000002000000056/hnbblive/index.m3u8$2M720_湖南bblive
+http://3501776.xyz:35455/itv/5000000007000010003.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="上海东方影视" tvg-name="东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方影视.png" group-title="上海频道",上海东方影视
-http://61.216.108.239:5566/TVOD/5000000010000032212/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 tvg-id="上海东方影视" tvg-name="东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方影视.png" group-title="上海频道",上海东方影视
-http://61.216.108.239:5566/TVOD/2000000002000000013/hnbblive/index.m3u8$2.5M720_湖南bblive
+http://3501776.xyz:35455/itv/5000000010000032212.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="上海频道",上海都市
-http://61.216.108.239:5566/TVOD/5000000010000018926/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="上海频道",上海都市
-http://61.216.108.239:5566/TVOD/2000000002000000012/hnbblive/index.m3u8$2.5M720_湖南bblive
+http://3501776.xyz:35455/itv/5000000010000018926.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png" group-title="上海频道",上海法治天地
-http://61.216.108.239:5566/TVOD/2000000002000000014/hnbblive/index.m3u8$7M1080_湖南bblive
+http://3501776.xyz:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png" group-title="上海频道",上海哈哈炫动
-http://61.216.108.239:5566/TVOD/5000000011000031123/bestzb/index.m3u8$7M1080_百视通
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png" group-title="上海频道",上海哈哈炫动
-http://61.216.108.239:5566/TVOD/5000000005000031641/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png" group-title="上海频道",上海哈哈炫动
-http://61.216.108.239:5566/TVOD/1000000002000000172/ystenlive/index.m3u8$4M576_易视腾
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
-http://61.216.108.239:5566/TVOD/1000000001000016545/ystenlive/index.m3u8$8M1080_易视腾
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
-http://61.216.108.239:5566/TVOD/5000000004000010282/bestzb/index.m3u8$7M1080_百视通
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
-http://61.216.108.239:5566/TVOD/1000000005000265021/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
-http://61.216.108.239:5566/TVOD/5000000001000021713/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
-http://61.216.108.239:5566/TVOD/1000000001000010606/ystenlive/index.m3u8$4M1080_易视腾
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="上海频道",上海五星体育
-http://61.216.108.239:5566/TVOD/5000000010000017540/bestzb/index.m3u8$4M1080_百视通
-#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="上海频道",上海五星体育
-http://61.216.108.239:5566/TVOD/2000000002000000007/hnbblive/index.m3u8$2.5M720_湖南bblive
+http://3501776.xyz:35455/itv/5000000011000031123.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文-50-FPS
+http://3501776.xyz:35455/itv/5000000004000010282.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文-HEVC
+http://3501776.xyz:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png" group-title="上海频道",上海新闻综合
-http://61.216.108.239:5566/TVOD/5000000011000031110/bestzb/index.m3u8$7M1080_百视通
+http://3501776.xyz:35455/itv/5000000011000031110.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="上海频道",上海ICS外语
+http://61.222.202.143:50001/TVOD/5000000010000030951/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="上海频道",上海ICS外语
+http://61.222.202.143:50001/TVOD/2000000002000000001/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="第一财经" tvg-name="上海第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海第一财经.png" group-title="上海频道",上海第一财经
+http://61.222.202.143:50001/TVOD/5000000010000027146/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="第一财经" tvg-name="上海第一财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海第一财经.png" group-title="上海频道",上海第一财经
+http://61.222.202.143:50001/TVOD/2000000002000000004/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方财经.png" group-title="上海频道",上海东方财经
+http://61.222.202.143:50001/TVOD/5000000007000010003/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方财经.png" group-title="上海频道",上海东方财经
+http://61.222.202.143:50001/TVOD/2000000002000000090/hnbblive/index.m3u8$6.8M1080_湖南bblive
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
+http://61.222.202.143:50001/TVOD/5000000004000014098/bestzb/index.m3u8$8M1080_百视通
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
+http://61.222.202.143:50001/TVOD/6000000001000003639/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
+http://61.222.202.143:50001/TVOD/1000000001000005866/ystenlive/index.m3u8$8M1080_易视腾
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
+http://61.222.202.143:50001/TVOD/1000000005000265018/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
+http://61.222.202.143:50001/TVOD/5000000010000032246/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
+http://61.222.202.143:50001/TVOD/1000000001000030202/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
+http://61.222.202.143:50001/TVOD/2000000002000000056/hnbblive/index.m3u8$2M720_湖南bblive
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方影视.png" group-title="上海频道",上海东方影视
+http://61.222.202.143:50001/TVOD/5000000010000032212/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方影视.png" group-title="上海频道",上海东方影视
+http://61.222.202.143:50001/TVOD/2000000002000000013/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="上海频道",上海都市
+http://61.222.202.143:50001/TVOD/5000000010000018926/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海都市.png" group-title="上海频道",上海都市
+http://61.222.202.143:50001/TVOD/2000000002000000012/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png" group-title="上海频道",上海法治天地
+http://61.222.202.143:50001/TVOD/2000000002000000014/hnbblive/index.m3u8$7M1080_湖南bblive
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png" group-title="上海频道",上海哈哈炫动
+http://61.222.202.143:50001/TVOD/5000000011000031123/bestzb/index.m3u8$7M1080_百视通
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png" group-title="上海频道",上海哈哈炫动
+http://61.222.202.143:50001/TVOD/5000000005000031641/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哈哈炫动.png" group-title="上海频道",上海哈哈炫动
+http://61.222.202.143:50001/TVOD/1000000002000000172/ystenlive/index.m3u8$4M576_易视腾
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
+http://61.222.202.143:50001/TVOD/1000000001000016545/ystenlive/index.m3u8$8M1080_易视腾
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
+http://61.222.202.143:50001/TVOD/5000000004000010282/bestzb/index.m3u8$7M1080_百视通
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
+http://61.222.202.143:50001/TVOD/1000000005000265021/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
+http://61.222.202.143:50001/TVOD/5000000001000021713/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
+http://61.222.202.143:50001/TVOD/1000000001000010606/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png" group-title="上海频道",上海新闻综合
-http://61.216.108.239:5566/TVOD/2000000002000000005/hnbblive/index.m3u8$2.5M576_湖南bblive
+http://61.222.202.143:50001/TVOD/5000000011000031110/bestzb/index.m3u8$7M1080_百视通
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png" group-title="上海频道",上海新闻综合
+http://61.222.202.143:50001/TVOD/2000000002000000005/hnbblive/index.m3u8$2.5M576_湖南bblive
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
 http://www.xzbn.site:35455/itv/6000000001000003639.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="上海频道",东方卫视
@@ -2865,40 +2887,8 @@ http://www.xzbn.site:35455/itv/5000000011000031123.m3u8?cdn=bestzb
 http://www.xzbn.site:35455/itv/5000000004000010282.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="纪实人文" tvg-name="上海纪实人文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海纪实人文.png" group-title="上海频道",上海纪实人文
 http://www.xzbn.site:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="五星体育" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="上海频道",上海五星体育
-http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png" group-title="上海频道",上海新闻综合
 http://www.xzbn.site:35455/itv/5000000011000031110.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="体育频道",HBO
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="体育频道",Now 爆谷台
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
-#EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="体育频道",Now爆谷星影台
-https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
-#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="体育频道",Now新聞台
-https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
-#EXTINF:-1 tvg-name="NOW财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW财经.png" group-title="体育频道",Now財經台
-https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="体育频道",HBO
-https://eventcdn02-nowe.akamaized.net/hls/CH115/index.m3u8
-#EXTINF:-1 tvg-name="NOW爆谷台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="体育频道",Now 爆谷台
-https://eventcdn02-nowe.akamaized.net/hls/CH133/index.m3u8
-#EXTINF:-1 tvg-name="NOW爆谷星影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW爆谷.png" group-title="体育频道",Now爆谷星影台
-https://eventcdn02-nowe.akamaized.net/hls/CH138/index.m3u8
-#EXTINF:-1 tvg-name="NOW直播台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW直播.png" group-title="体育频道",Now直播台
-https://eventcdn02-nowe.akamaized.net/hls/CH331/index.m3u8
-#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="体育频道",Now新聞台
-https://eventcdn02-nowe.akamaized.net/hls/CH332/index.m3u8
-#EXTINF:-1 tvg-name="NOW财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW财经.png" group-title="体育频道",Now財經台
-https://eventcdn02-nowe.akamaized.net/hls/CH333/index.m3u8
-#EXTINF:-1 tvg-name="BEINSPORTS1" tvg-logo="https://iptv-pro.github.io/logo/beIN%20SPORTS%201.png" group-title="体育频道",beIN SPORTS 1
-https://eventcdn02-nowe.akamaized.net/hls/CH638/index.m3u8
-#EXTINF:-1 tvg-name="BEINSPORTS2" tvg-logo="https://iptv-pro.github.io/logo/beIN%20SPORTS%202.png" group-title="体育频道",beIN SPORTS 2
-https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NBATV.png" group-title="体育频道",NBATV
-https://eventcdn02-nowe.akamaized.net/hls/CH642/index.m3u8
-#EXTINF:-1 tvg-name="PREMIERSPORTS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/PREMIERSPORTS1.png" group-title="体育频道",Premier Sports
-https://eventcdn02-nowe.akamaized.net/hls/CH679/index.m3u8
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="体育频道",HBO
 http://50.7.234.10:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:-1 tvg-name="SKYSPORTSPREMIERLEAGUE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSPREMIERLEAGUE.png" group-title="体育频道",sky sports
@@ -2915,6 +2905,10 @@ https://stream1.freetv.fun/1feb00c8dfa4f135e1f00a93533eeaca5650c3b96c647d96e7290
 https://stream1.freetv.fun/061f3e34ba5e80ee6d1ff538e495724cfbe5a3daff59c289972f8186855ec50f.ctv
 #EXTINF:-1 tvg-name="NOWSPORTS2" tvg-logo="https://iptv-pro.github.io/logo/beIN%20SPORTS%202.png" group-title="体育频道",Now Sports 2
 https://stream1.freetv.fun/933911acd9ce751a31d2a1290205992ec885122b8e6be12adc0a8034d3383cf5.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="体育频道",爱奇艺体育「中国 VS 沙特 」
+http://hlslive.video.iqiyi.com/tslive/c67_ssports_20250222_zbcdx5aa_720p_chst2_t4/c67_ssports_20250222_zbcdx5aa_720p_chst2_t4.m3u8?pv=0.2&qd_tvid=2936428356578323&qd_vipres=2&qd_scc=17d5f51fd10a36a0cc77ebfc06973e1b&qd_sc=33b4e56b95fda9d470ddb9607fb5b11a&qd_sft=0&qd_did=059aaf9bfd4e2b20b29e5ede1e4bce82&qd_ip=7a0446bb&qd_index=180000&qd_vip=0&qd_uid=&qd_tm=1740218023474&qd_p=7a0446bb&qd_src=01010031010000000000&qdv=3&qd_k=6dc3a4156a4c8e6314a359c4a53f260b&qd_bid=4&cpt=0&prv=1
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="体育频道",爱奇艺体育「中国 VS 沙特 」
+https://www.freetv.top/iqiyi/4288990/2936428356578323.m3u8?iqytoken=6e8ea951ddac72bbf98c30300b23290ea26d1f36ff21c9010d3f20dc17f2c8d5a8d30adc631e5ce1c32b0fcb832bab622d9fe6916540377a4236b535f162d27e3216a22bc457780d7b30765e543ec06d60a9dec441fa6d62471f9137225510da264c0338c90b1c498cb508b1212e5106c1e8d99ce63e6d00bc44264d06e47bc975354587e8187a67fa757cbd2c38f3dbf7a0b44d579a5340318d8fc6ffcc9c30e5ca7c0a73a8809b1868b7d3edf4ba3f3161
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNT.png" group-title="體育",TNT Sport 1「港台节点」
 http://34.81.72.172:8001/beesport/TNT_Sports_1
 #EXTINF:-1 tvg-id="TNT-Sports-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNT.png" group-title="體育",TNT Sport 2「港台节点」
@@ -3319,17 +3313,35 @@ http://170.254.18.106/MTV/index.m3u8
 http://170.254.18.106/BET/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VH1.png" group-title="国际",VH1电影
 http://170.254.18.106/VH1/index.m3u8
+#EXTINF:-1 tvg-id="五星体育" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://3501776.xyz:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="五星体育" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
-http://lt.hxtre.com:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
-http://180.105.209.130:55555/itv/5000000010000017540.m3u8?cdn=bestzb
+https://stream1.freetv.fun/c5e4d93302b9d65dc2f886279f90c015d8e9c31e8d032c0006e19967b5ebd730.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
+https://stream1.freetv.fun/c5e4d93302b9d65dc2f886279f90c015d8e9c31e8d032c0006e19967b5ebd730.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
+https://stream1.freetv.fun/4881181ce7c229726cc597354dcd8ac833357167c1f7af8b48b2d08267400041.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
+https://stream1.freetv.fun/ca2a7c1d63d0bb0d08abc1bd543f111dfb2ff7b0606a462f6aabf2165e6134f1.m3u8
+#EXTINF:-1 tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://213.210.4.41:50001/TVOD/5000000010000017540/bestzb/index.m3u8
+#EXTINF:-1 tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://213.210.4.41:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
+#EXTINF:-1 tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://45.8.113.249:50001/TVOD/5000000010000017540/bestzb/index.m3u8
+#EXTINF:-1 tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://45.8.113.249:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
+#EXTINF:-1 tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://192.210.231.206:50001/TVOD/5000000010000017540/bestzb/index.m3u8
+#EXTINF:-1 tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://192.210.231.206:50001/TVOD/2000000002000000007/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://61.222.202.143:50001/TVOD/5000000010000017540/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="上海五星体育" tvg-name="上海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海外语.png" group-title="体育频道",上海五星体育
+http://61.222.202.143:50001/TVOD/2000000002000000007/hnbblive/index.m3u8$2.5M720_湖南bblive
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
 http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
-http://lu.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
-http://live.wqwqwq.sbs/itv/5000000010000017540.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="体育频道",爱奇艺体育「中国 VS 沙特 」
-http://hlslive.video.iqiyi.com/tslive/c67_ssports_20250222_zbcdx5aa_720p_chst2_t4/c67_ssports_20250222_zbcdx5aa_720p_chst2_t4.m3u8?pv=0.2&qd_tvid=2936428356578323&qd_vipres=2&qd_scc=17d5f51fd10a36a0cc77ebfc06973e1b&qd_sc=33b4e56b95fda9d470ddb9607fb5b11a&qd_sft=0&qd_did=059aaf9bfd4e2b20b29e5ede1e4bce82&qd_ip=7a0446bb&qd_index=180000&qd_vip=0&qd_uid=&qd_tm=1740218023474&qd_p=7a0446bb&qd_src=01010031010000000000&qdv=3&qd_k=6dc3a4156a4c8e6314a359c4a53f260b&qd_bid=4&cpt=0&prv=1
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="体育频道",爱奇艺体育「中国 VS 沙特 」
-https://www.freetv.top/iqiyi/4288990/2936428356578323.m3u8?iqytoken=6e8ea951ddac72bbf98c30300b23290ea26d1f36ff21c9010d3f20dc17f2c8d5a8d30adc631e5ce1c32b0fcb832bab622d9fe6916540377a4236b535f162d27e3216a22bc457780d7b30765e543ec06d60a9dec441fa6d62471f9137225510da264c0338c90b1c498cb508b1212e5106c1e8d99ce63e6d00bc44264d06e47bc975354587e8187a67fa757cbd2c38f3dbf7a0b44d579a5340318d8fc6ffcc9c30e5ca7c0a73a8809b1868b7d3edf4ba3f3161
