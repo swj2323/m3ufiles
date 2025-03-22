@@ -2644,7 +2644,7 @@ https://play1nm.hnyongshun.cn/live/67d18d5edea1144b0066cca6409fece3_ballbar_2608
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSF1.png" group-title="体育频道",F1
 http://xg.52sw.top/play/douyin.php?id=Gsports
 #EXTINF:-1 group-title="体育频道",F1「腾讯视频」
-https://yunmei.tv/f1/F1-F12.m3u8
+https://yunmei.tv/f1/F1-F11.m3u8
 #EXTINF:-1 tvg-id="TNT-Sports-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNT.png" group-title="體育",TNT Sport 1「港台节点」
 http://104.243.26.183:8000/beesport/TNT_Sports_1
 #EXTINF:-1 tvg-id="TNT-Sports-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNT.png" group-title="體育",TNT Sport 2「港台节点」
@@ -3079,5 +3079,5 @@ https://live.tvfix.org/live/arirang/1/v1000000/index.m3u8
 http://180.156.182.124:8888/udp/239.45.3.210:5140
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
 http://58.41.30.214:8880/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="更新日期",20250321
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="更新日期",20250322
 http://iptv.wwkejishe.top/share.mp4
