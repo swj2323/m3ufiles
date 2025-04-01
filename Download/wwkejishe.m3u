@@ -673,6 +673,18 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="4K频道",Fashion「4K」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳台",ViuTV
+http://a.vb.cc.ua/now/096/master.m3u8
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="港澳台",ViuTV
+http://a.vb.cc.ua/now/099/master.m3u8
+#EXTINF:-1 tvg-name="NOW直播台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW直播.png" group-title="港澳台",now直播台
+http://a.vb.cc.ua/now/331/master.m3u8
+#EXTINF:-1 tvg-name="NOW财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW财经.png" group-title="港澳台",now财经台
+http://a.vb.cc.ua/now/333/master.m3u8
+#EXTINF:-1 tvg-name="NOWSPORTSPRIME" tvg-logo="https://iptv-pro.github.io/logo/Now%20Sports%201.png" group-title="港澳台",now Sports Prime
+http://a.vb.cc.ua/now/630/master.m3u8
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="港澳台",now新闻台
+http://a.vb.cc.ua/now/332/master.m3u8
 #EXTINF:-1 tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇新闻台湾.png" group-title="港澳台",寰宇新闻台
 http://222.128.55.152:9080/live/hy.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="港澳台",中天新聞
