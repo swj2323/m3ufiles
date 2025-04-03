@@ -242,9 +242,11 @@ http://nas.suntao.online:35455/gaoma/cctv16.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
 http://nas.suntao.online:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png" group-title="央视频道",CCTV风云足球
-http://202.102.201.244:40022/rtp/238.1.79.57:4592
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png" group-title="央视频道",CCTV风云足球
 http://180.213.174.225:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png" group-title="央视频道",CCTV风云足球
+http://58.19.38.162:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png" group-title="央视频道",CCTV风云足球
+http://202.102.201.244:40022/rtp/238.1.79.57:4592
 #EXTINF:-1 group-title="央视频道",CGNT 记录频道
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png" group-title="央视频道",CGTN纪录
@@ -413,10 +415,6 @@ http://z.b.bkpcp.top/m.php?id=sdjy
 http://z.b.bkpcp.top/m.php?id=yxfy
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/欢笑剧场.png" group-title="卫视频道",欢笑剧场
 http://z.b.bkpcp.top/m.php?id=hxjc
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="卫视频道",CHC动作电影
-http://z.b.bkpcp.top/m.php?id=dzdy
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="卫视频道",CHC家庭影院
-http://z.b.bkpcp.top/m.php?id=jtyy
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视频道",江西卫视
 http://113.56.95.69:53765/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视频道",四川卫视
@@ -659,6 +657,20 @@ http://live.nctv.top/IQGYpiryt/hntv.php?id=hnws
 https://live.tvfix.org/live/dfhd/1/v4000000/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视频道",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="电影频道",CHC动作电影
+http://z.b.bkpcp.top/m.php?id=dzdy
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
+http://z.b.bkpcp.top/m.php?id=jtyy
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="电影频道",CHC动作电影
+http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="电影频道",CHC动作电影
+http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南宁影视娱乐.png" group-title="电影频道",南宁影视娱乐
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+#EXTINF:-1 group-title="电影频道",平泉影视
+http://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南宁影视娱乐.png" group-title="电影频道",影视娱乐
+http://ali-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="4K频道",cctv16「4K」
 http://www.xzbn.site:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="4K频道",cctv4k
@@ -2389,6 +2401,10 @@ https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn21
 https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn22
 #EXTINF:-1 tvg-name="寰宇财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇财经.png" group-title="港澳台",寰宇財經台「台湾节点」
 https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn23
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="广东频道",广东体育
+http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="广东频道",广东体育
+http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="广东频道",广东珠江
 http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="广东频道",广东体育
@@ -2417,7 +2433,7 @@ https://tv.cdn.com.mp/live/gdty/stream.m3u8
 http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="广东频道",南国都市
 http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="广东频道",广州综合
+#EXTINF:-1 tvg-name="广州综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="广东频道",广州综合
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="广东频道",广州新闻
 http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
@@ -2571,68 +2587,6 @@ https://stream1.freetv.fun/933911acd9ce751a31d2a1290205992ec885122b8e6be12adc0a8
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 #EXTINF:-1 group-title="体育频道",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNT.png" group-title="体育频道",TNT Sport 1 UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2505/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNT.png" group-title="体育频道",TNT Sport 2 UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/2506/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNT.png" group-title="体育频道",TNT SPORT 2 FHD UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6565/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNT.png" group-title="体育频道",TNT SPORT 3 FHD UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6564/index.m3u8
-#EXTINF:-1 tvg-name="PREMIERSPORTS1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/PREMIERSPORTS1.png" group-title="体育频道",PREMIER SPORTS 1 UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6555/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CBSSPORTSNETWORK.png" group-title="体育频道",CBS SPORTS NETWORK US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7324/index.m3u8
-#EXTINF:-1 tvg-name="SKYSPORTSFOOTBALL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSFOOTBALL.png" group-title="体育频道",SKY SPORTS FOOTBALL UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7336/index.m3u8
-#EXTINF:-1 tvg-name="SKYSPORTSPREMIERLEAGUE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSPREMIERLEAGUE.png" group-title="体育频道",SKY SPORTS PREMIER LEAGUE UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7335/index.m3u8
-#EXTINF:-1 tvg-name="SKYSPORTSF1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSF1.png" group-title="体育频道",SKY SPORTS F1 UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7342/index.m3u8
-#EXTINF:-1 tvg-name="EUROSPORT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EUROSPORT.png" group-title="体育频道",EUROSPORT 2 HD UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6556/index.m3u8
-#EXTINF:-1 tvg-name="GOLFCHANNELHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GOLFCHANNEL.png" group-title="体育频道",Golf Channel HD CA「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6481/index.m3u8
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NBATV.png" group-title="体育频道",NBA TV US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/14031/index.m3u8
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NBATV.png" group-title="体育频道",NBA TV HD US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7226/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPNU.png" group-title="体育频道",ESPN US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19156/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPN2.png" group-title="体育频道",ESPN 2 HD US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19155/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPNNEWS.png" group-title="体育频道",Espn News HD US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19154/index.m3u8
-#EXTINF:-1 tvg-name="MUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MUTV.png" group-title="体育频道",MUTV UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/10078/index.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBC.png" group-title="体育频道",CNBC US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/962/index.m3u8
-#EXTINF:-1 tvg-name="SPORTS1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXSPORTS1.png" group-title="体育频道",FOX SPORTS 1 US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7322/index.m3u8
-#EXTINF:-1 tvg-name="SPORTS2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXSPORTS2.png" group-title="体育频道",FOX SPORTS 2 US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7323/index.m3u8
-#EXTINF:-1 tvg-name="FOXNEWSCHANNEL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="体育频道",FOX NEWS CHANNEL FHD US「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/19147/index.m3u8
-#EXTINF:-1 tvg-name="NBATV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NBATV.png" group-title="体育频道",NBA TV CA「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6491/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ESPN.png" group-title="体育频道",TNT SPORT ESPN FHD UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6563/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNT.png" group-title="体育频道",TNT SPORT 1 FHD UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6566/index.m3u8
-#EXTINF:-1 tvg-name="SKYSPORTSACTION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSACTION.png" group-title="体育频道",SKY SPORTS Action FHD UK「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7345/index.m3u8
-#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNBC.png" group-title="体育频道",CNBC Canada CA「港台节点」
-http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/6482/index.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSF1.png" group-title="体育频道",F1
-http://xg.52sw.top/play/douyin.php?id=Gsports
-#EXTINF:-1 group-title="体育频道",F1「腾讯视频」
-https://yunmei.tv/f1/F1-F11.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="体育频道",2025-03-25 18:30_世亚预_中国vs澳大利亚_于鑫淼 孟洪涛 郭小仙「爱奇艺体育」
-https://www.freetv.top/iqiyi/4146382/.m3u8?iqytoken=78c478433e8cbb54c4b98e2c5702d48dbe47ef60d43d199d0d1b9988ddff63faa84145f9a493128c0859ce24c365df6768e9c5b47b5bd2617c8505d6719f2b3b40e122a3f96457505d20c60e1cc85d7b7458139c1a02ee40f24af96d118f0f1e461ecb9330cc638dc99a7e86bafc9fe39139c6fa8d05fdbb0a89b7d5bd093789c56ae76d17b643c240195b29b161e857e771a0d2563e1d1dddadc2320c9501623a01
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="体育频道",2025-03-25 18:30_世亚预_中国vs澳大利亚_陈文森 「爱奇艺体育」
-https://www.freetv.top/iqiyi/4146382/.m3u8?iqytoken=816137fb0eb3d77d2dbdd7603df0f3c80fef90a23e96bfb04fb8d7ecef83f4d0cf8f786730219191ea4e1753be7e0b53602e571bc3ecd84cfb58afa92f55459e6a8861aac4db069292b5eb3cfeed1107e73c3b4d897e9516e2d9a5d81a7cca4a04e73b1878bf01f708ca24b718962e44ed76261cf60513b9b168792afdc3956c156bce20ed9ffa46d5154f4506cad538c55da0e61a5a4c7ff8e08ef9cd7699021ed5
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="体育频道",2025-03-25 18:30_世亚预_中国vs澳大利亚_English Commentary「爱奇艺体育」
-https://www.freetv.top/iqiyi/4146382/.m3u8?iqytoken=c43b0567da8beb066b0cd1c3c2e3a834c95875b23f5c38beac626f0c7c9a957c6f1d843d6db11f5f59528ebd77f51834ce9ed2af3b9876bb6e53f9bc8d32b78bb9c7fb77c28de7088a7f60c585e1f5674deac00f38de4e13f1e2b4866e2e00a964caaaa6f2f85fde81d6c6464615c6b756d0738efe4e08ec0a544960086f5642454d33316b437cf6311771d998d0e5d5c16633b1e6d50841416828e1081b9b0cda0a
 #EXTINF:-1 group-title="国际",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/半岛新闻.png" group-title="国际",半岛新闻
@@ -2789,5 +2743,5 @@ http://180.158.201.25:1024/udp/239.45.3.210:5140
 https://ali.hlspull.yximgs.com/live/diyp_wuxing.flv
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/五星体育.png" group-title="体育频道",五星体育
 http://180.156.182.124:8888/udp/239.45.3.210:5140
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="更新日期",20250331
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="更新日期",20250403
 http://iptv.wwkejishe.top/share.mp4
