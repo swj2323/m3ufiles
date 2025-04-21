@@ -29,8 +29,6 @@ jobs:
           wget -q -O Download/iptv-api.txt https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
           wget -q -O Download/wwkejishe.m3u https://iptv.wwkejishe.top/ALL.m3u
           wget -q -O Download/iptv-org.m3u https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-          wget -q -O Download/wwkjtv.m3u https://iptv.wwkejishe.top/tv.m3u
-          wget -q -O Download/wwkjSub.m3u https://iptv.wwkejishe.top/Sub.m3u
           wget -q -O Download/CCTV.m3u https://raw.githubusercontent.com/Moexin/IPTV/Files/CCTV.m3u
           wget -q -O Download/CNTV.m3u https://raw.githubusercontent.com/Moexin/IPTV/Files/CNTV.m3u
           wget -q -O Download/suxuang.m3u https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
