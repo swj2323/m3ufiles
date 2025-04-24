@@ -40,64 +40,78 @@ jobs:
       - name: Process files
         run: |
           find Download -type f -exec sed -i \
-            -e 's/CCTV-/CCTV/g' \
-            -e 's/CCTV /CCTV/g' \
-            -e 's/CCTV-0/CCTV/g' \
-            -e 's/CCTV0/CCTV/g' \
-            -e 's/CCTV-1 综合/CCTV1/g' \
-            -e 's/CCTV-2 财经/CCTV2/g' \
-            -e 's/CCTV-3 综艺/CCTV3/g' \
-            -e 's/CCTV-4 中文国际/CCTV4/g' \
-            -e 's/CCTV-5 体育/CCTV5/g' \
-            -e 's/CCTV-5+ 体育赛事/CCTV5+/g' \
-            -e 's/CCTV-6 电影/CCTV6/g' \
-            -e 's/CCTV-7 国防军事/CCTV7/g' \
-            -e 's/CCTV-8 电视剧/CCTV8/g' \
-            -e 's/CCTV-9 纪录/CCTV9/g' \
-            -e 's/CCTV-10 科教/CCTV10/g' \
-            -e 's/CCTV-11 戏曲/CCTV11/g' \
-            -e 's/CCTV-12 社会与法/CCTV12/g' \
-            -e 's/CCTV-13 新闻/CCTV13/g' \
-            -e 's/CCTV-14 少儿/CCTV14/g' \
-            -e 's/CCTV-15 音乐/CCTV15/g' \
-            -e 's/CCTV-16 奥林匹克/CCTV16/g' \
-            -e 's/CCTV-17 农业农村/CCTV17/g' \
-            -e 's/CCTV-1综合/CCTV1/g' \
-            -e 's/CCTV-2财经/CCTV2/g' \
-            -e 's/CCTV-3综艺/CCTV3/g' \
-            -e 's/CCTV-4中文国际/CCTV4/g' \
-            -e 's/CCTV-5体育/CCTV5/g' \
-            -e 's/CCTV-5+体育赛事/CCTV5+/g' \
-            -e 's/CCTV-6电影/CCTV6/g' \
-            -e 's/CCTV-7国防军事/CCTV7/g' \
-            -e 's/CCTV-8电视剧/CCTV8/g' \
-            -e 's/CCTV-9纪录/CCTV9/g' \
-            -e 's/CCTV-10科教/CCTV10/g' \
-            -e 's/CCTV-11戏曲/CCTV11/g' \
-            -e 's/CCTV-12社会与法/CCTV12/g' \
-            -e 's/CCTV-13新闻/CCTV13/g' \
-            -e 's/CCTV-14少儿/CCTV14/g' \
-            -e 's/CCTV-15音乐/CCTV15/g' \
-            -e 's/CCTV-16奥林匹克/CCTV16/g' \
-            -e 's/CCTV-17农业农村/CCTV17/g' \
-            -e 's/CCTV1 综合/CCTV1/g' \
-            -e 's/CCTV2 财经/CCTV2/g' \
-            -e 's/CCTV3 综艺/CCTV3/g' \
-            -e 's/CCTV4 中文国际/CCTV4/g' \
-            -e 's/CCTV5 体育/CCTV5/g' \
-            -e 's/CCTV5+ 体育赛事/CCTV5+/g' \
-            -e 's/CCTV6 电影/CCTV6/g' \
-            -e 's/CCTV7 国防军事/CCTV7/g' \
-            -e 's/CCTV8 电视剧/CCTV8/g' \
-            -e 's/CCTV9 纪录/CCTV9/g' \
-            -e 's/CCTV10 科教/CCTV10/g' \
-            -e 's/CCTV11 戏曲/CCTV11/g' \
-            -e 's/CCTV12 社会与法/CCTV12/g' \
-            -e 's/CCTV13 新闻/CCTV13/g' \
-            -e 's/CCTV14 少儿/CCTV14/g' \
-            -e 's/CCTV15 音乐/CCTV15/g' \
-            -e 's/CCTV16 奥林匹克/CCTV16/g' \
-            -e 's/CCTV17 农业农村/CCTV17/g' \
+            -e 's/CCTV1"/CCTV-1 综合"/g' \
+            -e 's/CCTV2/CCTV-2 财经/g' \
+            -e 's/CCTV3/CCTV-3 综艺/g' \
+            -e 's/CCTV4/CCTV-4 中文国际/g' \
+            -e 's/CCTV5/CCTV-5 体育/g' \
+            -e 's/CCTV5+/CCTV-5+ 体育赛事/g' \
+            -e 's/CCTV6/CCTV-6 电影/g' \
+            -e 's/CCTV7/CCTV-7 国防军事/g' \
+            -e 's/CCTV8/CCTV-8 电视剧/g' \
+            -e 's/CCTV9/CCTV-9 纪录/g' \
+            -e 's/CCTV10/CCTV-10 科教/g' \
+            -e 's/CCTV11/CCTV-11 戏曲/g' \
+            -e 's/CCTV12/CCTV-12 社会与法/g' \
+            -e 's/CCTV13/CCTV-13 新闻/g' \
+            -e 's/CCTV14/CCTV-14 少儿/g' \
+            -e 's/CCTV15/CCTV-15 音乐/g' \
+            -e 's/CCTV16/CCTV-16 奥林匹克/g' \
+            -e 's/CCTV17/CCTV-17 农业农村/g' \
+            -e 's/CCTV-1"/CCTV-1 综合"/g' \
+            -e 's/CCTV-2/CCTV-2 财经/g' \
+            -e 's/CCTV-3/CCTV-3 综艺/g' \
+            -e 's/CCTV-4/CCTV-4 中文国际/g' \
+            -e 's/CCTV-5/CCTV-5 体育/g' \
+            -e 's/CCTV-5+/CCTV-5+ 体育赛事/g' \
+            -e 's/CCTV-6/CCTV-6 电影/g' \
+            -e 's/CCTV-7/CCTV-7 国防军事/g' \
+            -e 's/CCTV-8/CCTV-8 电视剧/g' \
+            -e 's/CCTV-9/CCTV-9 纪录/g' \
+            -e 's/CCTV-10/CCTV-10 科教/g' \
+            -e 's/CCTV-11/CCTV-11 戏曲/g' \
+            -e 's/CCTV-12/CCTV-12 社会与法/g' \
+            -e 's/CCTV-13/CCTV-13 新闻/g' \
+            -e 's/CCTV-14/CCTV-14 少儿/g' \
+            -e 's/CCTV-15/CCTV-15 音乐/g' \
+            -e 's/CCTV-16/CCTV-16 奥林匹克/g' \
+            -e 's/CCTV-17/CCTV-17 农业农村/g' \
+            -e 's/CCTV-1综合/CCTV-1 综合//g' \
+            -e 's/CCTV-2财经/CCTV-2 财经//g' \
+            -e 's/CCTV-3综艺/CCTV-3 综艺/g' \
+            -e 's/CCTV-4中文国际/CCTV-4 中文国际/g' \
+            -e 's/CCTV-5体育/CCTV-5 体育/g' \
+            -e 's/CCTV-5+体育赛事/CCTV-5+ 体育赛事/g' \
+            -e 's/CCTV-6电影/CCTV-6 电影/g' \
+            -e 's/CCTV-7国防军事/CCTV-7 国防军事/g' \
+            -e 's/CCTV-8电视剧/CCTV-8 电视剧/g' \
+            -e 's/CCTV-9纪录/CCTV-9 纪录/g' \
+            -e 's/CCTV-10科教/CCTV-10 科教/g' \
+            -e 's/CCTV-11戏曲/CCTV-11 戏曲/g' \
+            -e 's/CCTV-12社会与法/CCTV-12 社会与法/g' \
+            -e 's/CCTV-13新闻/CCTV-13 新闻/g' \
+            -e 's/CCTV-14少儿/CCTV-14 少儿/g' \
+            -e 's/CCTV-15音乐/CCTV-15 音乐/g' \
+            -e 's/CCTV-16奥林匹克/CCTV-16 奥林匹克/g' \
+            -e 's/CCTV-17农业农村/CCTV-17 农业农村/g' \
+            -e 's/CCTV1 综合/CCTV-1 综合//g' \
+            -e 's/CCTV2 财经/CCTV-2 财经//g' \
+            -e 's/CCTV3 综艺/CCTV-3 综艺/g' \
+            -e 's/CCTV4 中文国际/CCTV-4 中文国际/g' \
+            -e 's/CCTV5 体育/CCTV-5 体育/g' \
+            -e 's/CCTV5+ 体育赛事/CCTV-5+ 体育赛事/g' \
+            -e 's/CCTV6 电影/CCTV-6 电影/g' \
+            -e 's/CCTV7 国防军事/CCTV-7 国防军事/g' \
+            -e 's/CCTV8 电视剧/CCTV-8 电视剧/g' \
+            -e 's/CCTV9 纪录/CCTV-9 纪录/g' \
+            -e 's/CCTV10 科教/CCTV-10 科教/g' \
+            -e 's/CCTV11 戏曲/CCTV-11 戏曲/g' \
+            -e 's/CCTV12 社会与法/CCTV-12 社会与法/g' \
+            -e 's/CCTV13 新闻/CCTV-13 新闻/g' \
+            -e 's/CCTV14 少儿/CCTV-14 少儿/g' \
+            -e 's/CCTV15 音乐/CCTV-15 音乐/g' \
+            -e 's/CCTV16 奥林匹克/CCTV-16 奥林匹克/g' \
+            -e 's/CCTV17 农业农村/CCTV-17 农业农村/g' \
             -e 's/CGTN记录/CGTN纪录/g' \
             -e 's/BRTV北京卫视/北京卫视/g' \
             -e 's/BRTV卡酷少儿/卡酷少儿/g' \
