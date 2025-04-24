@@ -40,7 +40,6 @@ jobs:
       - name: Process files
         run: |
           find Download -type f -exec sed -i \
-            -e 's/CCTV1"/CCTV-1 综合"/g' \
             -e 's/CCTV2/CCTV-2 财经/g' \
             -e 's/CCTV3/CCTV-3 综艺/g' \
             -e 's/CCTV4/CCTV-4 中文国际/g' \
@@ -58,7 +57,6 @@ jobs:
             -e 's/CCTV15/CCTV-15 音乐/g' \
             -e 's/CCTV16/CCTV-16 奥林匹克/g' \
             -e 's/CCTV17/CCTV-17 农业农村/g' \
-            -e 's/CCTV-1"/CCTV-1 综合"/g' \
             -e 's/CCTV-2/CCTV-2 财经/g' \
             -e 's/CCTV-3/CCTV-3 综艺/g' \
             -e 's/CCTV-4/CCTV-4 中文国际/g' \
@@ -164,6 +162,8 @@ jobs:
             -e 's/iHOT爱科学/爱科学/g' \
             -e 's/iHOT爱旅行/爱旅行/g' \
             -e 's/iHOT爱体育/爱体育/g' \
+            -e 's/CCTV1/CCTV-1 综合/g' \
+            -e 's/CCTV-1/CCTV-1 综合"/g' \
             {} +
   
       # 步骤4：批量替换文件内容
