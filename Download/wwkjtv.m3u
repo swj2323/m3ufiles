@@ -1,127 +1,127 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/tg.jpg" group-title="更新日期",20250307
 http://iptv.wwkejishe.top/share.mp4
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",cctv1-高码
+#EXTINF:-1,tvg-id="CCTV-1 综合" 综合" tvg-name="CCTV-1 综合" 综合" tvg-logo="https://epg.v1.mk/logo/CCTV-1 综合" 综合.png" group-title="央视",cctv1-高码
 http://yc.myds.me:35455/gaoma/cctv1.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV-1 综合" 综合" tvg-name="CCTV-1 综合" 综合" tvg-logo="https://epg.v1.mk/logo/CCTV-1 综合" 综合.png" group-title="央视",CCTV-1 综合" 综合
 http://yc.myds.me:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="央视",CCTV1-50-FPS
+#EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="央视",CCTV-1 综合" 综合-50-FPS
 http://yc.myds.me:35455/itv/5000000004000002226.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1-HEVC
+#EXTINF:-1,tvg-id="CCTV-1 综合" 综合" tvg-name="CCTV-1 综合" 综合" tvg-logo="https://epg.v1.mk/logo/CCTV-1 综合" 综合.png" group-title="央视",CCTV-1 综合" 综合-HEVC
 http://yc.myds.me:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",cctv2-高码
 http://yc.myds.me:35455/gaoma/cctv2.m3u8
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV-2 财经
 http://yc.myds.me:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV2-50-FPS
+#EXTINF:-1,tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="https://epg.v1.mk/logo/CCTV-2 财经.png" group-title="央视",CCTV-2 财经-50-FPS
 http://yc.myds.me:35455/itv/6000000001000014161.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2-HEVC
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV-2 财经-HEVC
 http://yc.myds.me:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",cctv3-高码
 http://yc.myds.me:35455/gaoma/cctv3.m3u8
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV-3 综艺
 http://yc.myds.me:35455/itv/6000000001000022313.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3-HEVC
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV-3 综艺-HEVC
 http://yc.myds.me:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",cctv4-高码
 http://yc.myds.me:35455/gaoma/cctv4.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV4-50-FPS
+#EXTINF:-1,tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://epg.v1.mk/logo/CCTV-4 中文国际.png" group-title="央视",CCTV-4 中文国际-50-FPS
 http://yc.myds.me:35455/itv/5000000011000031102.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4-HEVC
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV-4 中文国际-HEVC
 http://yc.myds.me:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",cctv5-高码
 http://yc.myds.me:35455/gaoma/cctv5.m3u8
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV-5 体育
 http://yc.myds.me:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5-HEVC
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV-5 体育-HEVC
 http://yc.myds.me:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",cctv5p-高码
 http://yc.myds.me:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV-5 体育+
 http://yc.myds.me:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+-HEVC
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV-5 体育+-HEVC
 http://yc.myds.me:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV-6 电影
 http://yc.myds.me:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV6-50-FPS
+#EXTINF:-1,tvg-id="CCTV-6 电影" tvg-name="CCTV-6 电影" tvg-logo="https://epg.v1.mk/logo/CCTV-6 电影.png" group-title="央视",CCTV-6 电影-50-FPS
 http://yc.myds.me:35455/itv/6000000001000004574.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6-HEVC
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV-6 电影-HEVC
 http://yc.myds.me:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",cctv7-高码
+#EXTINF:-1,tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7 国防军事.png" group-title="央视",cctv7-高码
 http://yc.myds.me:35455/gaoma/cctv7.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1,tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7 国防军事.png" group-title="央视",CCTV-7 国防军事
 http://yc.myds.me:35455/itv/1000000001000024341.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7-50-FPS
+#EXTINF:-1,tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7 国防军事.png" group-title="央视",CCTV-7 国防军事-50-FPS
 http://yc.myds.me:35455/itv/6000000001000009055.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7-HEVC
+#EXTINF:-1,tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7 国防军事.png" group-title="央视",CCTV-7 国防军事-HEVC
 http://yc.myds.me:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",cctv8-高码
 http://yc.myds.me:35455/gaoma/cctv8.m3u8
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV-8 电视剧
 http://yc.myds.me:35455/itv/6000000001000001070.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8-HEVC
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV-8 电视剧-HEVC
 http://yc.myds.me:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",cctv9-高码
 http://yc.myds.me:35455/gaoma/cctv9.m3u8
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV-9 纪录
 http://yc.myds.me:35455/itv/1000000001000014583.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV9-50-FPS
+#EXTINF:-1,tvg-id="CCTV-9 纪录" tvg-name="CCTV-9 纪录" tvg-logo="https://epg.v1.mk/logo/CCTV-9 纪录.png" group-title="央视",CCTV-9 纪录-50-FPS
 http://yc.myds.me:35455/itv/6000000001000032162.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9-HEVC
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV-9 纪录-HEVC
 http://yc.myds.me:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",cctv10-高码
 http://yc.myds.me:35455/gaoma/cctv10.m3u8
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-1 综合"0 科教
 http://yc.myds.me:35455/itv/1000000001000023734.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10-50-FPS
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-1 综合"0 科教-50-FPS
 http://yc.myds.me:35455/itv/5000000004000012827.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10-HEVC
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-1 综合"0 科教-HEVC
 http://yc.myds.me:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",cctv11-高码
 http://yc.myds.me:35455/gaoma/cctv11.m3u8
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11-50-FPS
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV-1 综合"1 戏曲-50-FPS
 http://yc.myds.me:35455/itv/5000000011000031106.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11-HEVC
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV-1 综合"1 戏曲-HEVC
 http://yc.myds.me:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",cctv12-高码
 http://yc.myds.me:35455/gaoma/cctv12.m3u8
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-1 综合"2 社会与法
 http://yc.myds.me:35455/itv/1000000001000032494.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12-50-FPS
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-1 综合"2 社会与法-50-FPS
 http://yc.myds.me:35455/itv/6000000001000022586.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12-HEVC
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-1 综合"2 社会与法-HEVC
 http://yc.myds.me:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",cctv13-高码
 http://yc.myds.me:35455/gaoma/cctv13.m3u8
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13-50-FPS
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV-1 综合"3 新闻-50-FPS
 http://yc.myds.me:35455/itv/5000000011000031108.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",cctv14-高码
 http://yc.myds.me:35455/gaoma/cctv14.m3u8
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-1 综合"4 少儿
 http://yc.myds.me:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14-50-FPS
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-1 综合"4 少儿-50-FPS
 http://yc.myds.me:35455/itv/5000000004000006673.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14-HEVC
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-1 综合"4 少儿-HEVC
 http://yc.myds.me:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",cctv15-高码
 http://yc.myds.me:35455/gaoma/cctv15.m3u8
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15-50-FPS
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV-1 综合"5 音乐-50-FPS
 http://yc.myds.me:35455/itv/5000000011000031109.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15-HEVC
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV-1 综合"5 音乐-HEVC
 http://yc.myds.me:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv16-高码
 http://yc.myds.me:35455/gaoma/cctv16.m3u8
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV16
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV-1 综合"6 奥林匹克
 http://yc.myds.me:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",CCTV16-4K-HEVC
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",CCTV-1 综合"6 奥林匹克-4K-HEVC
 http://yc.myds.me:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",cctv16-4K-HLG
 http://yc.myds.me:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",cctv17-高码
 http://yc.myds.me:35455/gaoma/cctv17.m3u8
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-1 综合"7 农业农村
 http://yc.myds.me:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17-HEVC
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-1 综合"7 农业农村-HEVC
 http://yc.myds.me:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央视",CGTN
 http://yc.myds.me:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
@@ -579,127 +579,127 @@ http://yc.myds.me:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
 http://yc.myds.me:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_易视腾-6
 http://yc.myds.me:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",cctv1-高码
+#EXTINF:-1,tvg-id="CCTV-1 综合" 综合" tvg-name="CCTV-1 综合" 综合" tvg-logo="https://epg.v1.mk/logo/CCTV-1 综合" 综合.png" group-title="央视",cctv1-高码
 http://tv.nezha.su:35455/gaoma/cctv1.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV-1 综合" 综合" tvg-name="CCTV-1 综合" 综合" tvg-logo="https://epg.v1.mk/logo/CCTV-1 综合" 综合.png" group-title="央视",CCTV-1 综合" 综合
 http://tv.nezha.su:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="央视",CCTV1-50-FPS
+#EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://epg.v1.mk/logo/cctv1.png" group-title="央视",CCTV-1 综合" 综合-50-FPS
 http://tv.nezha.su:35455/itv/5000000004000002226.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1-HEVC
+#EXTINF:-1,tvg-id="CCTV-1 综合" 综合" tvg-name="CCTV-1 综合" 综合" tvg-logo="https://epg.v1.mk/logo/CCTV-1 综合" 综合.png" group-title="央视",CCTV-1 综合" 综合-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",cctv2-高码
 http://tv.nezha.su:35455/gaoma/cctv2.m3u8
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV-2 财经
 http://tv.nezha.su:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV2-50-FPS
+#EXTINF:-1,tvg-id="CCTV-2 财经" tvg-name="CCTV-2 财经" tvg-logo="https://epg.v1.mk/logo/CCTV-2 财经.png" group-title="央视",CCTV-2 财经-50-FPS
 http://tv.nezha.su:35455/itv/6000000001000014161.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV2-HEVC
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV-2 财经-HEVC
 http://tv.nezha.su:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",cctv3-高码
 http://tv.nezha.su:35455/gaoma/cctv3.m3u8
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV-3 综艺
 http://tv.nezha.su:35455/itv/6000000001000022313.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV3-HEVC
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV-3 综艺-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",cctv4-高码
 http://tv.nezha.su:35455/gaoma/cctv4.m3u8
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV4-50-FPS
+#EXTINF:-1,tvg-id="CCTV-4 中文国际" tvg-name="CCTV-4 中文国际" tvg-logo="https://epg.v1.mk/logo/CCTV-4 中文国际.png" group-title="央视",CCTV-4 中文国际-50-FPS
 http://tv.nezha.su:35455/itv/5000000011000031102.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV4-HEVC
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV-4 中文国际-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265004.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",cctv5-高码
 http://tv.nezha.su:35455/gaoma/cctv5.m3u8
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV-5 体育
 http://tv.nezha.su:35455/itv/1000000005000025222.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV5-HEVC
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV-5 体育-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265005.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",cctv5p-高码
 http://tv.nezha.su:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV-5 体育+
 http://tv.nezha.su:35455/itv/6000000001000015875.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV5+-HEVC
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV-5 体育+-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265016.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV-6 电影
 http://tv.nezha.su:35455/itv/1000000001000001737.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="央视",CCTV6-50-FPS
+#EXTINF:-1,tvg-id="CCTV-6 电影" tvg-name="CCTV-6 电影" tvg-logo="https://epg.v1.mk/logo/CCTV-6 电影.png" group-title="央视",CCTV-6 电影-50-FPS
 http://tv.nezha.su:35455/itv/6000000001000004574.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV6-HEVC
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV-6 电影-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265006.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",cctv7-高码
+#EXTINF:-1,tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7 国防军事.png" group-title="央视",cctv7-高码
 http://tv.nezha.su:35455/gaoma/cctv7.m3u8
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1,tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7 国防军事.png" group-title="央视",CCTV-7 国防军事
 http://tv.nezha.su:35455/itv/1000000001000024341.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7-50-FPS
+#EXTINF:-1,tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7 国防军事.png" group-title="央视",CCTV-7 国防军事-50-FPS
 http://tv.nezha.su:35455/itv/6000000001000009055.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV7-HEVC
+#EXTINF:-1,tvg-id="CCTV-7 国防军事" tvg-name="CCTV-7 国防军事" tvg-logo="https://epg.v1.mk/logo/CCTV-7 国防军事.png" group-title="央视",CCTV-7 国防军事-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265007.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",cctv8-高码
 http://tv.nezha.su:35455/gaoma/cctv8.m3u8
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV-8 电视剧
 http://tv.nezha.su:35455/itv/6000000001000001070.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV8-HEVC
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV-8 电视剧-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265008.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",cctv9-高码
 http://tv.nezha.su:35455/gaoma/cctv9.m3u8
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV-9 纪录
 http://tv.nezha.su:35455/itv/1000000001000014583.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="央视",CCTV9-50-FPS
+#EXTINF:-1,tvg-id="CCTV-9 纪录" tvg-name="CCTV-9 纪录" tvg-logo="https://epg.v1.mk/logo/CCTV-9 纪录.png" group-title="央视",CCTV-9 纪录-50-FPS
 http://tv.nezha.su:35455/itv/6000000001000032162.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV9-HEVC
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV-9 纪录-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265009.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",cctv10-高码
 http://tv.nezha.su:35455/gaoma/cctv10.m3u8
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-1 综合"0 科教
 http://tv.nezha.su:35455/itv/1000000001000023734.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10-50-FPS
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-1 综合"0 科教-50-FPS
 http://tv.nezha.su:35455/itv/5000000004000012827.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV10-HEVC
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-1 综合"0 科教-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265010.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",cctv11-高码
 http://tv.nezha.su:35455/gaoma/cctv11.m3u8
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11-50-FPS
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV-1 综合"1 戏曲-50-FPS
 http://tv.nezha.su:35455/itv/5000000011000031106.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV11-HEVC
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV-1 综合"1 戏曲-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265011.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",cctv12-高码
 http://tv.nezha.su:35455/gaoma/cctv12.m3u8
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-1 综合"2 社会与法
 http://tv.nezha.su:35455/itv/1000000001000032494.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12-50-FPS
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-1 综合"2 社会与法-50-FPS
 http://tv.nezha.su:35455/itv/6000000001000022586.m3u8?cdn=wasusyt
-#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV12-HEVC
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-1 综合"2 社会与法-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265012.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",cctv13-高码
 http://tv.nezha.su:35455/gaoma/cctv13.m3u8
-#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV13-50-FPS
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV-1 综合"3 新闻-50-FPS
 http://tv.nezha.su:35455/itv/5000000011000031108.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",cctv14-高码
 http://tv.nezha.su:35455/gaoma/cctv14.m3u8
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-1 综合"4 少儿
 http://tv.nezha.su:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14-50-FPS
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-1 综合"4 少儿-50-FPS
 http://tv.nezha.su:35455/itv/5000000004000006673.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV14-HEVC
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-1 综合"4 少儿-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",cctv15-高码
 http://tv.nezha.su:35455/gaoma/cctv15.m3u8
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15-50-FPS
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV-1 综合"5 音乐-50-FPS
 http://tv.nezha.su:35455/itv/5000000011000031109.m3u8?cdn=bestzb
-#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV15-HEVC
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV-1 综合"5 音乐-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",cctv16-高码
 http://tv.nezha.su:35455/gaoma/cctv16.m3u8
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV16
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV-1 综合"6 奥林匹克
 http://tv.nezha.su:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",CCTV16-4K-HEVC
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",CCTV-1 综合"6 奥林匹克-4K-HEVC
 http://tv.nezha.su:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="4K频道",cctv16-4K-HLG
 http://tv.nezha.su:35455/gaoma/cctv4k16.m3u8
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",cctv17-高码
 http://tv.nezha.su:35455/gaoma/cctv17.m3u8
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-1 综合"7 农业农村
 http://tv.nezha.su:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17-HEVC
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-1 综合"7 农业农村-HEVC
 http://tv.nezha.su:35455/itv/1000000005000265015.m3u8?cdn=ystenlive
 #EXTINF:-1,tvg-id="cgtn" tvg-name="cgtn" tvg-logo="https://epg.v1.mk/logo/cgtn.png" group-title="央视",CGTN
 http://tv.nezha.su:35455/itv/7745129417417101820.m3u8?cdn=hnbblive

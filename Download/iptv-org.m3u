@@ -21,36 +21,36 @@ http://223.72.123.28:85/tsfile/live/1026_1.m3u8?authid=0&key=txiptv&playlive=1
 http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 #EXTINF:-1 tvg-id="BRTVScienceEducationChannel.cn",BRTV Science & Education Channel
 http://49.113.179.174:4022/udp/238.125.3.121:5140
-#EXTINF:-1 tvg-id="CCTV1.cn",CCTV1 (1080p)
+#EXTINF:-1 tvg-id="CCTV-1 综合" 综合.cn",CCTV-1 综合" 综合 (1080p)
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="CCTV1.cn",CCTV1 (576p)
-http://117.161.133.51:81/gitv_live/G_CCTV1/G_CCTV1.m3u8
-#EXTINF:-1 tvg-id="CCTV2.cn",CCTV2 (576p)
-http://117.161.133.51:81/gitv_live/G_CCTV2/G_CCTV2.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn",CCTV15音乐
+#EXTINF:-1 tvg-id="CCTV-1 综合" 综合.cn",CCTV-1 综合" 综合 (576p)
+http://117.161.133.51:81/gitv_live/G_CCTV-1 综合"/G_CCTV-1 综合".m3u8
+#EXTINF:-1 tvg-id="CCTV-2 财经.cn",CCTV-2 财经 (576p)
+http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
+#EXTINF:-1 tvg-id="CCTV-1 综合"5 音乐.cn",CCTV-1 综合"5 音乐音乐
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 tvg-id="CCTVTVGuide.cn@SD",CCTVTV Guide (576p)
+#EXTINF:-1 tvg-id="CCTVTVGuide.cn@SD",CCTV TV Guide (576p)
 http://117.161.133.51:81/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="CCTVWorldGeography.cn",CCTV世界地理
+#EXTINF:-1 tvg-id="CCTVWorldGeography.cn",CCTV 世界地理
 http://117.161.133.51:81/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn",CCTV兵器科技
+#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn",CCTV 兵器科技
 http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="CCTVBilliards.cn",CCTV央视台球
+#EXTINF:-1 tvg-id="CCTVBilliards.cn",CCTV 央视台球
 http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="",CCTV央视精品
-http://117.161.133.51:81/gitv_live/G_CCTVWENHUA-CQ/G_CCTVWENHUA-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="CCTVWomensFashion.cn",CCTV女性时尚
+#EXTINF:-1 tvg-id="",CCTV 央视精品
+http://117.161.133.51:81/gitv_live/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn",CCTV 女性时尚
 http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@SD",CCTV第一剧场
+#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@SD",CCTV 第一剧场
 http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="CCTVStormTheater.cn",CCTV风云剧场
+#EXTINF:-1 tvg-id="CCTVStormTheater.cn",CCTV 风云剧场
 http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="CCTVStormFootball.cn",CCTV风云足球
+#EXTINF:-1 tvg-id="CCTVStormFootball.cn",CCTV 风云足球
 http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="CCTVStormMusic.cn",CCTV风云音乐
+#EXTINF:-1 tvg-id="CCTVStormMusic.cn",CCTV 风云音乐
 http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV
-#EXTINF:-1 tvg-id="",CCTV高尔夫网球
-http://117.161.133.51:81/gitv_live/G_CCTVGOLF-CQ/G_CCTVGOLF-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="",CCTV 高尔夫网球
+http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
 #EXTINF:-1 tvg-id="CETV1.cn",CETV1 (576p)
 http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 #EXTINF:-1 tvg-id="CETV2.cn",CETV2 (576p)
