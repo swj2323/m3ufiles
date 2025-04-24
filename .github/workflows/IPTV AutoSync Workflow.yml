@@ -40,8 +40,6 @@ jobs:
       - name: Process files
         run: |
           find Download -type f -exec sed -i \
-            -e 's/http://182.92.156.115:5678/t.xml.gz/https://raw.githubusercontent.com/fanmingming/live/main/e.xml/g' \
-            -e 's/https://gcore.jsdelivr.net/gh/taksssss/tv/icon/https://raw.githubusercontent.com/fanmingming/live/main/tv/g' \
             -e 's/CCTV-/CCTV/g' \
             -e 's/CCTV /CCTV/g' \
             -e 's/CCTV-0/CCTV/g' \
