@@ -74,8 +74,8 @@ jobs:
             -e 's/CCTV-15/CCTV-15 音乐/g' \
             -e 's/CCTV-16/CCTV-16 奥林匹克/g' \
             -e 's/CCTV-17/CCTV-17 农业农村/g' \
-            -e 's/CCTV-1综合/CCTV-1 综合//g' \
-            -e 's/CCTV-2财经/CCTV-2 财经//g' \
+            -e 's/CCTV-1综合/CCTV-1 综合/g' \
+            -e 's/CCTV-2财经/CCTV-2 财经/g' \
             -e 's/CCTV-3综艺/CCTV-3 综艺/g' \
             -e 's/CCTV-4中文国际/CCTV-4 中文国际/g' \
             -e 's/CCTV-5体育/CCTV-5 体育/g' \
