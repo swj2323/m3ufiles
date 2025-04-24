@@ -125,8 +125,8 @@ jobs:
             -e 's/iHOT爱科学/爱科学/g' \
             -e 's/iHOT爱旅行/爱旅行/g' \
             -e 's/iHOT爱体育/爱体育/g' \
-            -e 's/CCTV1/CCTV-1 综合/g' \
-            -e 's/CCTV-1/CCTV-1 综合"/g' \
+            -e 's/CCTV1"/CCTV-1 综合"/g' \
+            -e 's/CCTV-1"/CCTV-1 综合"/g' \
             {} +
   
       # 步骤4：批量替换文件内容
