@@ -77,6 +77,15 @@ jobs:
             -e 's/CCTV-17农业农村/CCTV-17 农业农村/g' \
             -e 's/CCTV1 综合/CCTV-1 综合/g' \
             -e 's/CCTV2 财经/CCTV-2 财经/g' \
+            -e 's/CCTV3 综艺/CCTV-3 综艺/g' \
+            -e 's/CCTV4 中文国际/CCTV-4 中文国际/g' \
+            -e 's/CCTV5 体育/CCTV-5 体育/g' \
+            -e 's/CCTV5+ 体育赛事/CCTV-5+ 体育赛事/g' \
+            -e 's/CCTV6 电影/CCTV-6 电影/g' \
+            -e 's/CCTV7 国防军事/CCTV-7 国防军事/g' \
+            -e 's/CCTV8 电视剧/CCTV-8 电视剧/g' \
+            -e 's/CCTV9 纪录/CCTV-9 纪录/g' \
+            -e 's/CCTV10 科教/CCTV-10 科教/g' \
             -e 's/CGTN记录/CGTN纪录/g' \
             -e 's/BRTV北京卫视/北京卫视/g' \
             -e 's/BRTV卡酷少儿/卡酷少儿/g' \
