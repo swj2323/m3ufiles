@@ -34,7 +34,6 @@ jobs:
           wget -q -O Download/suxuang.m3u https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
           wget -q -O Download/l.txt https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
           wget -q -O Download/vbskycn_iptv6.txt https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-          wget -q -O Download/YueChan.m3u https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
           wget -q -O Download/alienlu.txt https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.txt
 
       # 步骤4：批量替换文件内容
