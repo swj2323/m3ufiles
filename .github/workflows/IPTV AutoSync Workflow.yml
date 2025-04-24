@@ -151,6 +151,12 @@ jobs:
             -e 's/iHOT爱旅行/爱旅行/g' \
             -e 's/iHOT爱体育/爱体育/g' \
             {} +
+  
+      # 步骤4：批量替换文件内容
+      - name: Replace URLs
+        run: |
+          sed -i 's|https://gcore.jsdelivr.net/gh/taksssss/tv/icon/|https://raw.githubusercontent.com/fanmingming/live/main/tv/|g' TV/my_tv.m3u TV/tv.m3u
+          sed -i 's|http://182.92.156.115:5678/t.xml.gz|https://raw.githubusercontent.com/fanmingming/live/main/e.xml|g' TV/my_tv.m3u TV/tv.m3u
 
       # 步骤5：自动提交更新（关键修复点）
       - name: Commit changes
