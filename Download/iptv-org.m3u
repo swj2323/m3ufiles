@@ -21,13 +21,13 @@ http://223.72.123.28:85/tsfile/live/1026_1.m3u8?authid=0&key=txiptv&playlive=1
 http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 #EXTINF:-1 tvg-id="BRTVScienceEducationChannel.cn",BRTV Science & Education Channel
 http://49.113.179.174:4022/udp/238.125.3.121:5140
-#EXTINF:-1 tvg-id="CCTV1.cn",CCTV1 (1080p)
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV-1 综合 (1080p)
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="CCTV1.cn",CCTV1 (576p)
+#EXTINF:-1 tvg-id="CCTV1.cn",CCTV-1 综合 (576p)
 http://117.161.133.51:81/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
-#EXTINF:-1 tvg-id="CCTV2.cn",CCTV2 (576p)
+#EXTINF:-1 tvg-id="CCTV2.cn",CCTV-2 财经 (576p)
 http://117.161.133.51:81/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn",CCTV15音乐
+#EXTINF:-1 tvg-id="CCTV15.cn",CCTV-15 音乐音乐
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="CCTVTVGuide.cn@SD",CCTV TV Guide (576p)
 http://117.161.133.51:81/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8?p=GITV

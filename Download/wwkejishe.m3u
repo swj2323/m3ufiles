@@ -1,73 +1,73 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVblM0YThkdHNwRFlML1RBcnR3L2FoZDFwWkQ5Y2VpcmhsT0tENnkrQ2I0UEE9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVa2hSdUJteFRNRytDZVNIMXVxYzNsV0d2S3dmQzFhV2ZEcjB0NUVwT2dQc3c9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVa3pNb2YyR3ZNajNFMVMrdE9JL29sbzU5NkdLQ0RlZG5sOWE1aFA3V2JER3c9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbTdvK3dHdUVxSlBHUUM1c1BzVjk2UUswTU5QQzF6SVkzSW9QNDhBUzNPUkE9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbmpjYXFBWGxVY3VsclNlRkRwdHdkN3BwcVZlcXNCVm1tdVRoRjAwbFFteHc9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbHB4Q1RLdVVoOEw5NkhXU1pRdnRrQ1JVS1ZjYU4xUCt6aVI4Wkc5QmowbVE9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbndUR05ybVBxNWplVTlMVDNsWVA2OXFmQTREQnJ5ams2VjR2R3ZGSm9UK0E9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVa3U4Y3ViekdNdm41YlYwZmM0dTJrOTJCN28rc0E4dGExRCtjM200SEZBZ2c9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbjMvNXFkNHdiUEdxdnh6cFdrVXV0djdUbWwxemhFRFhIa1BJREc0S29NZEE9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbHd5SWJVemJQU3M0YmVkdWF3SzJoTEdtY1VlYXp0TkJTSXRwMXY0YWFhU2c9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbUptREFESVFTQ3QwajdES1huZkJxc01kSkdjLzBzSmdzNnk0dDRyeDk2Y0E9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVa3ZKVUVRWUorQWJJNGczaW1BT3dOamwyaVR4SHJVWlFLRU1wYVYvSFI5RkE9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbFBLMHhyZU5OdFdHLzU5dkw5bHJVeDRuNkxxMGxtL2JwZG55ZHF6dkVId3c9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbWVwaDQrUFlGVGN6U2x3TkRkSnptcEdFS1ExMkI2cDNQZFpBbUhyaGcvY2c9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVa0thakRtazRMWnBIT1JlM1h4U1VTVDB2N056VWNoRTFqODFvaGx4QmNYN1E9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbkdJaCtlckdTeGtUeVBsY1FLZ2FuZGJvM2MyOFg5M25Id3BZUGdaam9OdEE9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbGcvZzhsM2x0ZUNCMkhUOWF3U0tPMi9tdEt6Q0paRUZoMm00RUZDZ3ppOFE9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzVkgyeTBuQnV6V2p2RytTNGdjRC9VSQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzVlpyK2JVSUk0cVVzOXgwdVI4VGtIVw%3D%3D
-#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzVnI0L0d2aGhKUndjanB1MWIzWnZLOA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzVXVqSkdxTC8vWnlwWk5mVDlOMTdWUQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzV3UwMHVKd3VUWVNqUWY1SDNVWkVTcA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5 体育+
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzVjEvMjB0VytBTWhDSDFiWWhEZno3Rw%3D%3D
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzczM4eTl6VGY2KzkzVUlKYnhLYUFzWEJPZnpwVGxKbEJ6Znlic2VsbmNwSA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqRWM5ZDVJNFcxSHpSUXFIbWtyQXN2dQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqRk5hVlRjUTg4d1NDd05QQS9jTi9FNQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqRllQeXlpWEVGaUJ3RVNKT3FKWm5zQw%3D%3D
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqSFYwSzVVUnJFMjVwZGVDRjVNSGxrZw%3D%3D
-#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqSEM3WGE4VG5EVmFZd1FyMFkxYnc0aQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqRncrNEViWC81bUVFRU4xdVRPVnY3OA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqRVpVWUhTd0ZPUzdRbjNvRnYyejM4Yw%3D%3D
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqR1FXeXhZUWk5RStUNGV0cCsyZmVwaA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqRXlhWEQwYy8vQnhDcFBDdmcyMEM2eg%3D%3D
-#EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-name="CCTV-16 奥林匹克" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzckg4RGZRL3hvTFNaM0lyUGN5d3pqSHlpN3R1ZktIdmxLamlmdUZnK1I0Sg%3D%3D
-#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzdllIRVBNT0JZaHhGQ0lmMS9WVnRaOC9tWTltcUVjczN0dDRseG91VWVFVQ%3D%3D
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="央视频道",CGTN-1
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzdllIRVBNT0JZaHhGQ0lmMS9WVnRaOC94RWVrMXVWZlZYd2VZRzZHVVlSMA%3D%3D
@@ -77,77 +77,77 @@ https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzdllIRVBN
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzdllIRVBNT0JZaHhGQ0lmMS9WVnRaL25OdkUyM080dDB6ZDF1NEEyQ1M0ag%3D%3D
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="央视频道",CETV-4
 https://feiyang.wangdu.site/decrypt.php?url=QlN1ZWMxYURwQW5VOThlZjZHTWwzdllIRVBNT0JZaHhGQ0lmMS9WVnRaKy9nWmN3bzk3VE41bzUxRU94VC8xMQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 https://feiyang.wangdu.site/decrypt.php?url=Tm9DSElnaGtHSTVFblcwV3ZUcDAwbWdXRENjT1phVU82UnZXbmZZcmRQdDltaVJHZU9LQlJESEl1dlF0RHZnQWdyU1FkemNrRW1INDZSRWFaeFM1dVBaTlVCK2pDcW9rVDkrZlIzcTNoOXJoUDdhVjF6ZUhpMHVXS0RUY1RJVHRmbzh3dEJrZCs4NGtFVS9OTDc5Z1lRPT0%3D
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 https://feiyang.wangdu.site/decrypt.php?url=Tm9DSElnaGtHSTVFblcwV3ZUcDAwakJ5OHcycWdMZDdrdHptMEN1cU5wNTk4Sk5mSXVTL1pVWUVBMlNXRG1XQk5PRi8wZGMxVEhJWFRwRG94NHZRb2lNV2xpK05KL2pGM0Z4YWE2Q3NWQVovUWxacExlTWxWNjQ5RHdGQmtXMFc4dW9aemdVbkNPVE1XZHJqL1Zvbkp3PT0%3D
-#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 https://feiyang.wangdu.site/decrypt.php?url=Tm9DSElnaGtHSTVFblcwV3ZUcDAwbUtHNzREUjJkYzMzV0h4N3YySEI3TmcxZlh1RGNLNFVGbGxCWTlqRURPOXU4bXorTHBPR2YxMEpCQ2VZcWhHSzk3TkZOOHR5NDBBd0VFMmZ2b25GTnIzNlpoaHg2ZzBRNmp4QUtBa0VXaTlkWWVqZDdEZ3VJbHROMXg0cDNLYitnPT0%3D
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phL2phUldGVXBTRE9SMzFpWHMrcWtVST0%3D
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phNVZXWXJJbVJqYld3ZHF6M0pzNGgzRT0%3D
-#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phd25PaytFMUdkTVZ3UDQ4QmtxdjVLaz0%3D
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phNWNzN2ZPN1FPWUFpMTRrUmFsWTFhND0%3D
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phL0NxM21ZRmxKMnlnSjFqMWhlZ0lCVT0%3D
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1pheVJBeHRqRzlJTXNKN3lIb05VemVEZz0%3D
-#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phOVVYamhzZXh4aDU5YjlBK3lXdjJmYz0%3D
-#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phNHdGNUNnU0djVVp2RXRydzRsZjQ4ND0%3D
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phMVdDQWVKZzd1MnVxV005UzlaVFRPUT0%3D
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phNmxXYU01eUhIbGtVUkhCNnN2dWdBWT0%3D
-#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phNkNPcFZ1SzBCUHpGN3lPeml0bXA2ST0%3D
-#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phNzJ0ellnR2VaQTEzd3RRQndLVmhyRT0%3D
-#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1pheXhCbHZ0aVIybjAxbFg0bGJyM3FuVT0%3D
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phNUpGSGovZGgvdHg5aUhzdEIwNGcrTT0%3D
-#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phN1NhVXJxSWwxKzY2N1MwZDZlQ1ZVOD0%3D
-#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 https://feiyang.wangdu.site/decrypt.php?url=Mnl1c0RYZTJRQTFuU3VCckRqV1phMU41dGtnY1IrUEpkWU5Ua1ZsMnJtUT0%3D
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cGtYeHd3UFpyNzlQOGFONVgvMG5jOA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cXhwdWJXc0o5Skg2cEZVYWNxSm1ubA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cEJ0NGFHd1hFTDdXWHNBb1IxUUpzYg%3D%3D
-#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cUQvaFI3NkRKWWNHUDFlOVB3a01yOA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cWM3Zkkzb0YyY253WmFpaG1zcm5Jcw%3D%3D
-#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5 体育+
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cjRMUVl2R2R5ZVZQcFVQN0pyaTJJdg%3D%3D
-#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cnJHd1JSUEJITHliMk1DTmFVYlBabg%3D%3D
-#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5b2hFR3NPRVJORzNBKzNuNFI0M1IvTA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cGZNTmJZUjUwcjQ5UjFXdXQwa2ZEdw%3D%3D
-#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5clVOLzQ0WEY0RHVMWVE4Q0hFZWlaNg%3D%3D
-#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cXpQRm9IV1BWVURNVi9RQlozSWNVSA%3D%3D
-#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cUpnbHcrMlhlbDNWQ3I0QlE5OWdBUw%3D%3D
-#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-name="CCTV-12 社会与法" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cEFSRUJxaC9jYUwvM3NYRlBza3NWTQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cmZLZy9iQjZoWGlDcHpDVjBkM3pkMQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cDdNNlh0RVdwemovUjRGTXo1UVpPTg%3D%3D
-#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-name="CCTV-15 音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5ci9IbExBQUMrMlhBNGo0RUxSNFRWMQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-name="CCTV-17 农业农村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 https://feiyang.wangdu.site/decrypt.php?url=b29EejZSZzJFVmI3VkZkelQvZXowWWdpOWxUZkEzb1lLUXlmcHg3eFc5cFlZQzJ0cTIvSjYyenM3Z0xtbDVLMQ%3D%3D
 #EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/女性时尚.png" group-title="央视频道",CCTV女性时尚
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVa2pCRjE3RUdMOElhTWpzbmhaSnhHK25UQVVGR1UxVkxzcWNDMVBSVHIwZVE9PQ%3D%3D
@@ -155,7 +155,7 @@ https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3My
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbWhYU0Q5MTcyYkF5QWRJZ1B2U3lNLzZPSzdKMllyUzZ2WmdKWWJQVlo1RlE9PQ%3D%3D
 #EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/世界地理.png" group-title="央视频道",CCTV世界地理
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbjJnSENWR1V3eXYrN3BhcWM0cGZvTlBvS1liZEgzeFMycEZWZFdaNmRESnc9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视频道",CCTV4K超高清
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4 中文国际K超高清
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbGMrTHR2b2RkTTRBcTJzS1cxRlhwWWJsdjBpZHp5R2pjWjR6VDRmbzVXR0E9PQ%3D%3D
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视频道",CCTV风云剧场
 https://feiyang.wangdu.site/decrypt.php?url=eS9yYjVzYjBkbGlDSWF4UFpBYjZKY3NnQ3MyRC95VFJsaWE5Y0NkeTVVbCtaTmEvSE9FdHVNNnViVXE3alBHbGxaQnZZMFZKWm8wZUFyR2xwUWRNS2c9PQ%3D%3D
@@ -825,7 +825,7 @@ https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4WkZuKytT
 https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4YWVXSmk2K0U4Zk1MalAwbXY2Q3JkYXdDWUpMMm9TRkRxSnQrcEp0aTd2NW9ET2Q0Q1Fvb3hlNStUc0VXUXhBd0E9PQ%3D%3D
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港澳台",凤凰中文
 https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4WkZuKytTdm16ZlJmNGZyVFppU1ZaeWhOdmZod1hMVmFoZytlNnB1OGkxcQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="港澳台",CCTV1港澳版
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="港澳台",CCTV-1 综合港澳版
 https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4VkVFcStWaUt5dDVKdTByS0RqTU9BZVgyenNXVVcwc0xLajNZQ2hYbUgrZExOYUlzODM0WWh5UUdBbi9CVUhkMlE9PQ%3D%3D
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPLUS.png" group-title="港澳台",TVB PLUS
 https://feiyang.wangdu.site/decrypt.php?url=VU00T2tWdFhueENpR2NqRDhEZzg4ZUx6TGQvTmlLdlh0Kzl3bXpBR2svOFhYdXpoUHV5UUtlREhvczdDSUNSVw%3D%3D
@@ -2083,7 +2083,7 @@ https://feiyang.wangdu.site/decrypt.php?url=TWVmOU5HT3Y1N2xJOWdZZW4zSm1XQkNMclhX
 https://feiyang.wangdu.site/decrypt.php?url=TWVmOU5HT3Y1N2xJOWdZZW4zSm1XQ0JNWFZwSW01RXdRaDhBV0ZPTnMyWmRFWWpSc2RPQldyRlBZNTY3Q3MwdTVKaTBQMC9iQUZKRENQWENENTl6UVE9PQ%3D%3D
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港澳台",凤凰中文「港台节点」
 https://feiyang.wangdu.site/decrypt.php?url=TWVmOU5HT3Y1N2xJOWdZZW4zSm1XQkNMclhXcm1tOTcvU2NOeS83RXkvWVljdm5HdWY3Vy9HWEZhdTd5RnRRVmV0ek9TODVBdmNXenBNNG1wVlVKZ1E9PQ%3D%3D
-#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="港澳台",CCTV1港澳版「港台节点」
+#EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="港澳台",CCTV-1 综合港澳版「港台节点」
 https://feiyang.wangdu.site/decrypt.php?url=TWVmOU5HT3Y1N2xJOWdZZW4zSm1XTG9nd3prVGFFNmFwYVcvbnpDTU1EejZydC9XVWp3eE85KzdSV1F0YXJBWStacUYwcnZRV2s2Q0ZCVC9IMUg5Rmc9PQ%3D%3D
 #EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBPLUS.png" group-title="港澳台",TVB PLUS「港台节点」
 https://feiyang.wangdu.site/decrypt.php?url=TWVmOU5HT3Y1N2xJOWdZZW4zSm1XQkNMclhXcm1tOTcvU2NOeS83RXkvYnZnenFDaWxlV2t0V2NUWElRM0l0blloSFJHUkc5Yk4vU002bzN5SlhVblE9PQ%3D%3D
