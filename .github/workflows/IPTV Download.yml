@@ -1,4 +1,4 @@
-name: IPTV AutoSync Workflow
+name: IPTV Download
 
 on:
   workflow_dispatch:
