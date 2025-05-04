@@ -26,6 +26,22 @@ jobs:
           wget -q -O Download/wwkejishe.m3u https://iptv.wwkejishe.top/ALL.m3u
           wget -q -O Download/allinone.m3u http://fn.sunweijun.top:35455/tv.m3u
 
+      - name: Verify downloads
+        run: |
+          files=(
+            "iptv-api.txt"
+            "wwkejishe.m3u"
+            "iptv-org.m3u"
+            "CCTV.m3u"
+            "l.txt"
+          )
+          for file in "${files[@]}"; do
+            if [ ! -s "Download/$file" ]; then
+              echo "::error::$file 下载失败，进程终止"
+              exit 4  # 显式返回相同错误码便于定位
+            fi
+          done
+          
       - name: Process files
         run: |
           find Download -type f -exec sed -i \
