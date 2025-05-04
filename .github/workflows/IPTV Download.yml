@@ -1,0 +1,61 @@
+name: IPTV AutoSync Workflow
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 17 * * *"  # UTC时间17:30（北京时间次日1:30）
+
+jobs:
+  sync-iptv-sources:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Create download directory
+        run: mkdir -p Download
+
+      - name: Download IPTV sources
+        run: |
+          wget -q -O Download/iptv-api.txt https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+          wget -q -O Download/wwkejishe.m3u https://iptv.wwkejishe.top/ALL.m3u
+          wget -q -O Download/iptv-org.m3u https://iptv-org.github.io/iptv/countries/cn.m3u
+          wget -q -O Download/CCTV.m3u https://raw.githubusercontent.com/Moexin/IPTV/Files/CCTV.m3u
+          wget -q -O Download/l.txt https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+
+      - name: Process files
+        run: |
+          find Download -type f -exec sed -i \
+            # 新增小写cctv处理（匹配1-17频道）
+            -e 's/cctv$[1-9]\|1[0-7]$-BPTV/CCTV\1/gi' \
+            # 优化基础格式处理
+            -e 's/[Cc][Cc][Tt][Vv][-_]$[0-9]\+$[-+_ ]*.*/CCTV\1/g' \
+            # 其他频道处理
+            -e 's/BRTV$北京卫视\|卡酷少儿\|纪实科教$/\1/g' \
+            -e 's/NewTV$超级电视剧\|超级电影\|超级体育\|超级综艺$/\1/g' \
+            -e 's/SiTV$[^ ]\+$/\1/g' \
+            -e 's/iHOT爱$[^ ]\+$/爱\1/g' \
+            -e 's/上海东方卫视/东方卫视/g' \
+            -e 's/福建体育频道\?/福建文体/g' \
+            -e 's/卡酷少儿/卡酷动画/g' \
+            -e 's/CGTN记录/CGTN纪录/g' {} +
+
+          sed -i 's|https://gcore.jsdelivr.net/gh/.*/icon/|https://raw.githubusercontent.com/fanmingming/live/main/tv/|g' Download/wwkejishe.m3u
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "IPTV Sync Bot"
+          git config --global user.email "iptv-sync@noreply.github.com"
+          
+          git add -A
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "📡 AutoSync IPTV Sources $(date +'%Y-%m-%d %H:%M UTC')"
+            git push origin main
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
