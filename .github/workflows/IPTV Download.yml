@@ -31,9 +31,7 @@ jobs:
           files=(
             "iptv-api.txt"
             "wwkejishe.m3u"
-            "iptv-org.m3u"
-            "CCTV.m3u"
-            "l.txt"
+            "allinone.m3u"
           )
           for file in "${files[@]}"; do
             if [ ! -s "Download/$file" ]; then
