@@ -48,7 +48,7 @@ jobs:
             -e 's/CCTV-4 中文国际/CCTV4/g' \
             -e 's/CCTV-5 体育/CCTV5/g' \
             -e 's/CCTV-5+ 体育赛事/CCTV5+/g' \
-            -e 's/CCTV-6 电影/CCTV6/g \
+            -e 's/CCTV-6 电影/CCTV6/g' \
             -e 's/CCTV-7 国防军事/CCTV7/g' \
             -e 's/CCTV-8 电视剧/CCTV8/g' \
             -e 's/CCTV-9 纪录/CCTV9/g' \
