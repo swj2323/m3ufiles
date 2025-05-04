@@ -35,6 +35,7 @@ jobs:
           wget -q -O Download/l.txt https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
           wget -q -O Download/vbskycn_iptv6.txt https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
           wget -q -O Download/alienlu.txt https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.txt
+          wget -q -O Download/allinone.m3u https://fn.sunweijun.top:35455/tv.m3u
 
       # 步骤4：批量替换文件内容
       - name: Process files
