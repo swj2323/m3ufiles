@@ -24,7 +24,6 @@ jobs:
         run: |
           wget -q -O Download/iptv-api.txt https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
           wget -q -O Download/wwkejishe.m3u https://iptv.wwkejishe.top/ALL.m3u
-          wget -q -O Download/allinone.m3u http://fn.sunweijun.top:35455/tv.m3u
 
       - name: Verify downloads
         run: |
