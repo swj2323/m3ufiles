@@ -29,8 +29,8 @@ jobs:
         run: |
           find Download -type f -exec bash -c '
             sed -i \
-              -e "s/cctv[-_]\?$[0-9]\+$[-_]\?BPTV/CCTV\1/gi" \
-              -e "s/[Cc][Cc][Tt][Vv][-_]$[0-9]\+$[-+_ ].*/CCTV\1/g" \
+              -e "s/cctv[-_]\\?\$0-9]\\+\$[-_]\\?BPTV/CCTV\\1/gi" \
+              -e "s/Cc]Cc]Tt]Vv]-_]\\?\$0-9]\\+\$[-+_ ].*/CCTV\\1/g" \
               -e "s/BRTV北京卫视/北京卫视/g" \
               -e "s/BRTV卡酷少儿/卡酷少儿/g" \
               -e "s/BRTV纪实科教/纪实科教/g" \
@@ -38,12 +38,12 @@ jobs:
               -e "s/NewTV超级电影/超级电影/g" \
               -e "s/NewTV超级体育/超级体育/g" \
               -e "s/NewTV超级综艺/超级综艺/g" \
-              -e "s/SiTV$[^ ]*$/\1/g" \
-              -e "s/iHOT爱$[^ ]*$/爱\1/g" \
+              -e "s/SiTV\$[^ ]*\$/\\1/g" \
+              -e "s/iHOT爱\$[^ ]*\$/爱\\1/g" \
               -e "s/上海东方卫视/东方卫视/g" \
               -e "s/福建体育频道/福建文体/g" \
               -e "s/CGTN记录/CGTN纪录/g" \
-              "$0"
+              {}
           ' {} \;
 
       - name: Commit changes
