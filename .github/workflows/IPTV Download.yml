@@ -42,7 +42,6 @@ jobs:
           -e 's/福建体育频道/福建文体/g' \
           -e 's/CGTN记录/CGTN纪录/g' {} +
 
-          sed -i 's|https://gcore.jsdelivr.net/gh/.*/icon/|https://raw.githubusercontent.com/fanmingming/live/main/tv/|g' Download/wwkejishe.m3u
 
       - name: Commit changes
         run: |
