@@ -36,12 +36,13 @@ jobs:
           
 
       - name: Process files
-        shell: bash  # ✅ 使用内置的 bash 关键字
+        shell: bash
         run: |
          find Download -type f -exec bash -c '
          sed -i \
+         -e "s/CCTV-$[0-9]\+$[ 　]*[^ ]*/CCTV\1/g" \  
          -e "s/cctv[-_]\\?\$[0-9]\\+\$[-_]\\?BPTV/CCTV\\1/gi" \
-         -e "s/[Cc][Cc][Tt][Vv][-_]\$[0-9]\\+\$[-+_ ].*/CCTV\\1/g" \
+         -e "s/[Cc][Cc][Tt][Vv][-_]\\?\$[0-9]\\+\$[-+_ ].*/CCTV\\1/g" \
          -e "s/BRTV北京卫视/北京卫视/g" \
          -e "s/BRTV卡酷少儿/卡酷少儿/g" \
          -e "s/BRTV纪实科教/纪实科教/g" \
