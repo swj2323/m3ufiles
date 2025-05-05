@@ -27,11 +27,8 @@ jobs:
       - name: Process files
         run: |
           find Download -type f -exec sed -i \
-            # 新增小写cctv处理（匹配1-17频道）
             -e 's/cctv$[1-9]\|1[0-7]$-BPTV/CCTV\1/gi' \
-            # 优化基础格式处理
             -e 's/[Cc][Cc][Tt][Vv][-_]$[0-9]\+$[-+_ ]*.*/CCTV\1/g' \
-            # 其他频道处理
             -e 's/BRTV$北京卫视\|卡酷少儿\|纪实科教$/\1/g' \
             -e 's/NewTV$超级电视剧\|超级电影\|超级体育\|超级综艺$/\1/g' \
             -e 's/SiTV$[^ ]\+$/\1/g' \
