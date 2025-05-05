@@ -24,6 +24,15 @@ jobs:
         run: |
           wget -q -O Download/wwkejishe.m3u https://iptv.wwkejishe.top/ALL.m3u
           wget -q -O Download/iptv-api.txt https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+          wget -q -O Download/cn.m3u https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+          wget -q -O Download/suxuangipv6.m3u https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+          wget -q -O Download/merged_output.txt https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+          wget -q -O Download/l.txt https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+          wget -q -O Download/kk.txt https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+          wget -q -O Download/live.txt https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+          wget -q -O Download/fanmingmingipv6.m3u https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+          wget -q -O Download/vbskycniptv6.txt https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+          wget -q -O Download/vbskycniptv4.txt https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
           
 
       - name: Process files
