@@ -21,7 +21,7 @@ CCTV3,http://ycsj.aguihome.com:4022/udp/233.50.201.196:5140
 CCTV4,http://ycsj.aguihome.com:4022/udp/233.50.200.101:5140					
 CCTV5,http://ycsj.aguihome.com:4022/udp/233.50.200.108:5140					
 CCTV5,http://ycsj.aguihome.com:4022/udp/233.50.201.197:5140					
-CCTV5+,http://ycsj.aguihome.com:4022/udp/233.50.201.220:5140					
+CCTV5
 CCTV6,http://ycsj.aguihome.com:4022/udp/233.50.200.109:5140					
 CCTV6,http://ycsj.aguihome.com:4022/udp/233.50.201.198:5140					
 CCTV7,http://ycsj.aguihome.com:4022/udp/233.50.200.24:5140					
@@ -44,7 +44,7 @@ CCTV14,http://ycsj.aguihome.com:4022/udp/233.50.201.124:5140
 CCTV16,http://ycsj.aguihome.com:4022/udp/233.50.200.112:5140					
 CCTV16,http://ycsj.aguihome.com:4022/udp/233.50.201.192:5140					
 CCTV17,http://ycsj.aguihome.com:4022/udp/233.50.200.113:5140					
-CCTV16 4K,http://ycsj.aguihome.com:4022/udp/233.50.201.63:5140
+CCTV16
 
 CCTV1,http://www.shizhan.love:8848/udp/239.49.0.1:8000
 CCTV2,http://www.shizhan.love:8848/udp/239.49.0.2:8008
@@ -80,7 +80,7 @@ CCTV13,http://221.205.180.88:8003/rtp/226.0.2.165:9232
 CCTV14,http://221.205.180.88:8003/rtp/226.0.2.166:9240
 CCTV15,http://221.205.180.88:8003/rtp/226.0.2.32:8168
 CCTV16,http://221.205.180.88:8003/rtp/226.0.2.169:9264
-CCTV5+体育赛事,http://221.205.180.88:8003/rtp/226.0.2.168:9256
+CCTV5
 CCTV17,http://221.205.180.88:8003/rtp/226.0.2.170:9272
 
 🇨🇳 卫视,#genre#
