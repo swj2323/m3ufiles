@@ -23,6 +23,8 @@ jobs:
       - name: Download IPTV sources
         run: |
           wget -q -O Download/wwkejishe.m3u https://iptv.wwkejishe.top/ALL.m3u
+          wget -q -O Download/iptv-api.txt https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+          
 
       - name: Process files
         shell: bash  # ✅ 使用内置的 bash 关键字
