@@ -28,13 +28,17 @@ jobs:
         run: |
           find Download -type f -exec sed -i \
             -e 's/cctv$[1-9]\|1[0-7]$-BPTV/CCTV\1/gi' \
-            -e 's/[Cc][Cc][Tt][Vv][-_]$[0-9]\+$[-+_ ]*.*/CCTV\1/g' \
-            -e 's/BRTV$北京卫视\|卡酷少儿\|纪实科教$/\1/g' \
-            -e 's/NewTV$超级电视剧\|超级电影\|超级体育\|超级综艺$/\1/g' \
-            -e 's/SiTV$[^ ]\+$/\1/g' \
-            -e 's/iHOT爱$[^ ]\+$/爱\1/g' \
+            -e 's/[Cc][Cc][Tt][Vv][-_]$[0-9]\+$[-+_ ].*/CCTV\1/g' \
+            -e 's/BRTV北京卫视/北京卫视/g' \
+            -e 's/BRTV纪实科教/纪实科教/g' \
+            -e 's/NewTV超级电视剧/超级电视剧/g' \
+            -e 's/NewTV超级电影/超级电影/g' \
+            -e 's/NewTV超级体育/超级体育/g' \
+            -e 's/NewTV超级综艺/超级综艺/g' \
+            -e 's/SiTV$[^ ]*$/\1/g' \
+            -e 's/iHOT爱$[^ ]*$/爱\1/g' \
             -e 's/上海东方卫视/东方卫视/g' \
-            -e 's/福建体育频道\?/福建文体/g' \
+            -e 's/福建体育频道/福建文体/g' \
             -e 's/卡酷少儿/卡酷动画/g' \
             -e 's/CGTN记录/CGTN纪录/g' {} +
 
