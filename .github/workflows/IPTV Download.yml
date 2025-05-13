@@ -3,7 +3,7 @@ name: IPTV Download
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 16 * * *"  # UTC时间16:30（北京时间次日0:30）
+    - cron: "00 18,6 * * *"  # UTC时间16:30（北京时间次日0:30）
 
 jobs:
   sync-iptv-sources:
