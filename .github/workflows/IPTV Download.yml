@@ -22,7 +22,6 @@ jobs:
 
       - name: Download IPTV sources
         run: |
-          wget -q -O Download/wwkejishe.m3u https://iptv.wwkejishe.top/ALL.m3u
           wget -q -O Download/iptv-api.txt https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
           wget -q -O Download/l.txt https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
           wget -q -O Download/kk.txt https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
